@@ -7,7 +7,7 @@
 3. [Gestió de la Seguretat](#gestió-de-la-seguretat)
 4. [Suport Tècnic](#suport-tècnic)
 5. [Anàlisi de Dades](#anàlisi-de-dades)
-6. [Desenvolupament](desenvolupament.md)
+6. [Desenvolupament](./alberto/desenvolupament.md)
 7. [Conclusió](#conclusió)
 
 ## Introducció
