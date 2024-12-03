@@ -16,13 +16,13 @@ Aquest manual ofereix una visió general sobre com la **Intel·ligència Artific
 
 La **IA** automatitza tasques i optimitza la gestió de xarxes, millorant així el rendiment global. Mitjançant eines com els sistemes de predicció de càrrega i de detecció d'incidències, les xarxes es poden gestionar de manera més eficient, minimitzant el temps d'inactivitat i millorant la disponibilitat.
 
-![Eficiència de Xarxes](https://via.placeholder.com/500x250?text=Eficiència+de+Xarxes)
+![Eficiència de Xarxes](https://cdn.prod.website-files.com/608fe4335740ea3362292486/63f5e649e4a9409b936fb6c2_enrutamientoDatos.jpg)
 
 #### **Reducció de temps d'inactivitat i errors humans**
 
 Mitjançant la detecció anticipada de fallades, la IA ajuda a identificar problemes abans que afectin els usuaris. Això disminueix el temps d'inactivitat i redueix la necessitat d'intervenció manual.
 
-![Reducció d'Errors Humans](https://via.placeholder.com/500x250?text=Reducció+d'Errors+Humans)
+![Reducció d'Errors Humans](https://industrialmindset.com/wp-content/uploads/2024/10/por-que-ocurren-los-errores-humanos-y-como-reducir-su-frecuencia.jpg)
 
 #### **Millora en la seguretat i resposta a amenaces**
 
