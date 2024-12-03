@@ -22,7 +22,7 @@ La IA automatitza tasques i millora la gestió de xarxes, optimitzant el rendime
 
 La IA detecta fallades abans que afectin els usuaris, reduint el temps d'inactivitat i la necessitat d'intervenció manual.
 
-![Reducció d'Errors Humans](https://industrialmindset.com/wp-content/uploads/2024/10/por-que-ocurren-los-errores-humanos-y-como-reducir-su-frecuencia.jpg)
+![Reducció d'Errors Humans](https://github.com/JiajunYe-ITB2425/manual-IA-ASIX/blob/main/error.jpg)
 
 #### **Millora en la seguretat i resposta a amenaces**
 
