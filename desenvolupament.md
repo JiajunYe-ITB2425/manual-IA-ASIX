@@ -4,14 +4,24 @@
 
 La intel·ligència artificial està transformant el desenvolupament de programari, oferint eines que milloren l'eficiència i la qualitat del codi. Aquí tenim algunes de les IA més destacades per al desenvolupament de codi:
 
-### GitHub Copilot
+## GitHub Copilot
 
-GitHub Copilot és una eina revolucionària que utilitza IA per assistir en la programació. Desenvolupada en col·laboració amb OpenAI, es basa en el model Codex per entendre instruccions en llenguatge natural i transformar-les en codi eficaç.
-![GitHub Copilot](https://aps.autodesk.com/sites/default/files/2024-10/Screenshot%202024-10-03%20at%2015.34.40.png)
-- **Característiques principals:**
-  - Completat de codi en temps real
-  - Generació de blocs de codi complexos a partir de descripcions
-  - Suport per a múltiples llenguatges de programació
+![GitHub Copilot Logo](https://github.githubassets.com/images/modules/site/copilot/copilot-hero-image.png)
+
+GitHub Copilot és un assistent de codificació impulsat per IA que suggereix codi i funcions completes en temps real.
+
+### Característiques Principals
+
+- Generació automàtica de codi
+- Suport per múltiples llenguatges
+- Integrat amb Visual Studio Code
+
+### Exemple de Codi
+
+```python
+# Demana a Copilot de generar una funció de factorial
+def factorial(n):
+    # Copilot generarà automàticament la implementació
 
 ### TabNine
 
