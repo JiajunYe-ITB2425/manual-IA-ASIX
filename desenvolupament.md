@@ -24,7 +24,7 @@ def factorial(n):
     # Copilot generarà automàticament la implementació
 ```
 ### TabNine
-![GitHub Copilot Logo](https://software-sources.com/wp-content/uploads/2023/03/tabnine-1.png)
+![GitHub Copilot Logo](https://cdn.ourcrowd.com/wp-content/uploads/2021/08/tabnine-logo.png)
 
 TabNine és una eina d'autocompletat intel·ligent que utilitza models de llenguatge d'IA per analitzar el context del codi i proporcionar suggeriments.
 
