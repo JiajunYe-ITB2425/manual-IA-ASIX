@@ -1,12 +1,10 @@
 ## Índex
 
-1. [Introducció](#introducció)
-2. [Xarxes](https://github.com/JiajunYe-ITB2425/manual-IA-ASIX/blob/jiajun/xarxes.md)
-3. [Gestió de la Seguretat](#gestió-de-la-seguretat)
-4. [Suport Tècnic](#suport-tècnic)
-5. [Anàlisi de Dades](https://github.com/JiajunYe-ITB2425/manual-IA-ASIX/blob/steven/analisis.md)
-6. [Desenvolupament](https://github.com/JiajunYe-ITB2425/manual-IA-ASIX/blob/alberto/desenvolupament.md)
-7. [Conclusió](#conclusió)
+1. [Xarxes](https://github.com/JiajunYe-ITB2425/manual-IA-ASIX/blob/jiajun/xarxes.md)
+2. [Gestió de la Seguretat](#gestió-de-la-seguretat)
+3. [Suport Tècnic](#suport-tècnic)
+4. [Anàlisi de Dades](https://github.com/JiajunYe-ITB2425/manual-IA-ASIX/blob/steven/analisis.md)
+5. [Desenvolupament](https://github.com/JiajunYe-ITB2425/manual-IA-ASIX/blob/alberto/desenvolupament.md)
 
 ## Introducció
 
