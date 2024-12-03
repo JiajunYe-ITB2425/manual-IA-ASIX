@@ -4,7 +4,7 @@
 2. [Gestió de la Seguretat](#gestió-de-la-seguretat)
 3. [Suport Tècnic](#suport-tècnic)
 4. [Anàlisi de Dades](analisis.md)
-5. [Desenvolupament](desenvolupament.md)
+5. [Desenvolupament](https://github.com/JiajunYe-ITB2425/manual-IA-ASIX/blob/alberto/desenvolupament.md)
 
 ## Introducció
 
