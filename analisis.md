@@ -19,5 +19,6 @@
 ## Propostes per Minimitzar l'Impacte
 - Consolidar centres de dades per augmentar l'eficiència energètica.
 - Reduir la freqüència d'entrenament de models si no és estrictament necessari.
+![BigQuery]([ruta-de-la-imagen](https://switchboard-software.com/wp-content/uploads/2023/06/Google-BigQuery.jpeg)
 
 ---
