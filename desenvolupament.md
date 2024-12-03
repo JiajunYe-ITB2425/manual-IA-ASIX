@@ -7,7 +7,7 @@ La intel·ligència artificial està transformant el desenvolupament de programa
 ### GitHub Copilot
 
 GitHub Copilot és una eina revolucionària que utilitza IA per assistir en la programació. Desenvolupada en col·laboració amb OpenAI, es basa en el model Codex per entendre instruccions en llenguatge natural i transformar-les en codi eficaç.
-![Texto Alternativo](https://www.google.com/url?sa=i&url=https%3A%2F%2Faps.autodesk.com%2Fblog%2Fbuild-aps-solutions-github-copilot&psig=AOvVaw0FCRxzLK1njDWKvOJPo4jU&ust=1733298924701000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKCpqeqPi4oDFQAAAAAdAAAAABAE)
+![Texto Alternativo](https://aps.autodesk.com/sites/default/files/2024-10/Screenshot%202024-10-03%20at%2015.34.40.png)
 - **Característiques principals:**
   - Completat de codi en temps real
   - Generació de blocs de codi complexos a partir de descripcions
