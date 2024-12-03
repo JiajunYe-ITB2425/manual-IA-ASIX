@@ -1,24 +1,50 @@
 ## Índex
 
-1. [Introducció](#introducció)
-2. [Xarxes](https://github.com/JiajunYe-ITB2425/manual-IA-ASIX/blob/jiajun/xarxes.md)
-3. [Gestió de la Seguretat](#gestió-de-la-seguretat)
-4. [Suport Tècnic](#suport-tècnic)
-5. [Anàlisi de Dades](https://github.com/JiajunYe-ITB2425/manual-IA-ASIX/blob/steven/analisis.md)
-6. [Desenvolupament](https://github.com/JiajunYe-ITB2425/manual-IA-ASIX/blob/alberto/desenvolupament.md)
-7. [Conclusió](#conclusió)
+
+1. [Xarxes](https://github.com/JiajunYe-ITB2425/manual-IA-ASIX/blob/jiajun/xarxes.md)
+2. [Gestió de la Seguretat](#gestió-de-la-seguretat)
+3. [Suport Tècnic](#suport-tècnic)
+4. [Anàlisi de Dades](https://github.com/JiajunYe-ITB2425/manual-IA-ASIX/blob/steven/analisis.md)
+5. [Desenvolupament](https://github.com/JiajunYe-ITB2425/manual-IA-ASIX/blob/alberto/desenvolupament.md)
 
 ## Introducció
 
-Aquest manual ofereix una visió general sobre com la Intel·ligència Artificial (IA) s'aplica a l'Administració de Sistemes Informàtics en Xarxa (ASIX). L'objectiu és ajudar els estudiants a entendre com la IA pot millorar l'eficiència, la seguretat i la gestió de les xarxes i els sistemes informàtics. A través de diversos exemples i àrees d'aplicació, el manual explora com la IA està transformant aquest sector i com els professionals poden aprofitar aquesta tecnologia per optimitzar processos i reduir errors humans.
+Aquest manual presenta com la **Intel·ligència Artificial (IA)** pot millorar l'**Administració de Sistemes Informàtics en Xarxa (ASIX)**. L'objectiu és mostrar als estudiants com la IA pot optimitzar l'eficiència, la seguretat i la gestió de xarxes i sistemes informàtics. A través d'exemples, s'exploren les àrees d'aplicació de la IA en aquest sector.
 
 ### Impacte al sector
 
-- **Major eficiència i rendiment de les xarxes:** L'automatització de tasques i l'optimització de la gestió de xarxes a través de la IA millora el rendiment global.
-- **Reducció de temps d'inactivitat i errors humans:** La IA permet detectar i resoldre problemes abans que afectin els usuaris, disminuint el temps d'inactivitat i la intervenció manual.
-- **Millora en la seguretat i resposta a amenaces:** La IA millora les capacitats de seguretat mitjançant sistemes de detecció automàtica i resposta a amenaces en temps real.
+#### **Major eficiència i rendiment de les xarxes**
+
+La IA automatitza tasques i millora la gestió de xarxes, optimitzant el rendiment i minimitzant temps d'inactivitat.
+
+![Eficiència de Xarxes](https://cdn.prod.website-files.com/608fe4335740ea3362292486/63f5e649e4a9409b936fb6c2_enrutamientoDatos.jpg)
+
+#### **Reducció de temps d'inactivitat i errors humans**
+
+La IA detecta fallades abans que afectin els usuaris, reduint el temps d'inactivitat i la necessitat d'intervenció manual.
+
+![Reducció d'Errors Humans](https://industrialmindset.com/wp-content/uploads/2024/10/por-que-ocurren-los-errores-humanos-y-como-reducir-su-frecuencia.jpg)
+
+#### **Millora en la seguretat i resposta a amenaces**
+
+Els sistemes basats en IA detecten amenaces en temps real i implementen respostes automàtiques, millorant la seguretat de les xarxes i sistemes.
+
+![Seguretat i Resposta a Amenaces](https://www.prosegur.es/dam/jcr:72deee6d-a8f9-4d96-8aee-84c61e667365/Qu%C3%A9%20valor%20aporta%20la%20seguridad%20a%20tu%20empresa.webp)
 
 ### Impacte ambiental
 
-- **Augment del consum energètic en centres de dades:** Les tecnologies basades en IA requereixen un alt poder de càlcul, cosa que incrementa la demanda d'energia.
-- **Increment en la demanda de recursos computacionals:** L'ús massiu de la IA en diferents processos pot portar a una major necessitat de recursos tecnològics i hardware especialitzat.
+#### **Augment del consum energètic en centres de dades**
+
+Les tecnologies basades en IA requereixen un gran poder de càlcul, augmentant la demanda energètica dels centres de dades.
+
+![Consum Energètic en Centres de Dades](https://abdc.es/wp-content/uploads/2024/06/impacto-ambiental-acumulativo-e1717758757616.jpg)
+
+#### **Increment en la demanda de recursos computacionals**
+
+L'ús de models d'IA intensius en càlcul augmenta la necessitat de recursos computacionals especialitzats, elevant costos i consum de recursos.
+
+![Demanda de Recursos Computacionals](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOtEfci3Rrd8qYN6eN9JvRMNJoGgEC1ofZKQ&s)
+
+---
+
+A través de la IA, l'Administració de Sistemes Informàtics en Xarxa experimenta millores en eficiència i seguretat, però també enfronta reptes ambientals derivats del consum energètic i la demanda de recursos computacionals.
