@@ -38,28 +38,29 @@ TabNine és una eina d'autocompletat intel·ligent que utilitza models de llengu
 
 ### V0Dev
 
-Codeium és una eina dissenyada per millorar l'eficiència i la precisió en l'escriptura de codi.
-![V0.dev](https://github.com/JiajunYe-ITB2425/manual-IA-ASIX/blob/alberto/Captura%20de%20pantalla%20de%202024-12-03%2009-21-55.png)
+**V0Dev** és una eina dissenyada per millorar l'eficiència i la precisió en l'escriptura de codi, especialment pensada per als desenvolupadors que volen accelerar el seu flux de treball i reduir els errors en el procés de codificació. Aquesta eina utilitza IA per suggerir automàticament línies de codi, gestionar funcions i fins i tot predir el que el desenvolupador vol escriure a continuació, tot adaptant-se a l'estil de codificació de l'usuari.
 
-- **Característiques:**
-  - Compatibilitat amb més de 40 llenguatges de programació
-  - Ofereix funcionalitats que optimitzen el flux de treball dels desenvolupadors
+![V0Dev](https://github.com/JiajunYe-ITB2425/manual-IA-ASIX/blob/alberto/Captura%20de%20pantalla%20de%202024-12-03%2009-21-55.png)
 
-### PolyCoder
+#### Característiques
 
-PolyCoder és una eina d'IA capaç de generar codi correcte i idiomàtic en diversos llenguatges de programació.
+- **Compatibilitat amb més de 40 llenguatges de programació:** V0Dev suporta una gran varietat de llenguatges de programació, com Python, JavaScript, Java, Ruby, Go, entre d'altres, permetent als desenvolupadors treballar amb la seva eina preferida.
+  
+- **Optimització del flux de treball dels desenvolupadors:** V0Dev proporciona suggeriments contextuels i intel·ligents, millorant la productivitat i agilitzant el procés de codificació. S'adapta als patrons i preferències de l'usuari per oferir recomanacions més rellevants i personalitzades.
 
-- **Funcionalitats:**
-  - Generació de codi per a tasques específiques
-  - Suport per a llenguatges com JavaScript, Python, Java, C++, C#, entre d'altres
-  - Generació sensible al context
+- **Generació automàtica de codi i refactorització:** L'eina pot generar codi de manera automàtica, així com realitzar refactorització de codi existent, optimitzant-lo per a millorar la seva llegibilitat i eficiència.
 
-### Kite
+#### Exemple de codi amb V0Dev
 
-Kite ofereix autocompletat mentre s'escriu el codi, utilitzant un model d'aprenentatge automàtic per proporcionar suggeriments intel·ligents.
+Imagina que estàs desenvolupant una API amb Flask en Python i necessites definir noves rutes per a l'aplicació. V0Dev pot suggerir el codi complet de la següent manera:
 
-- **Beneficis:**
-  - Augmenta la productivitat dels desenvolupadors
-  - Proporciona suggeriments contextuals basats en el codi existent
+```python
+from flask import Flask
 
-Aquestes eines d'IA estan revolucionant la forma en què els programadors escriuen codi, revisen el codi existent, realitzen proves automatitzades i documenten els seus projectes. En adoptar aquestes eines, els equips de desenvolupament poden optimitzar el seu flux de treball i oferir programari de major qualitat en menys temps.
+app = Flask(__name__)
+
+@app.route('/')
+def home():
+    return "Hola, món!"
+
+
