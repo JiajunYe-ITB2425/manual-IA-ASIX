@@ -1,11 +1,10 @@
 ## Índex
 
-
-1. [Xarxes](xarxes.md)
+1. [Xarxes](https://github.com/JiajunYe-ITB2425/manual-IA-ASIX/blob/jiajun/xarxes.md)
 2. [Gestió de la Seguretat](#gestió-de-la-seguretat)
 3. [Suport Tècnic](#suport-tècnic)
-4. [Anàlisi de Dades](analisis.md)
-5. [Desenvolupament](desenvolupament.md)
+4. [Anàlisi de Dades](https://github.com/JiajunYe-ITB2425/manual-IA-ASIX/blob/steven/analisis.md)
+5. [Desenvolupament](https://github.com/JiajunYe-ITB2425/manual-IA-ASIX/blob/alberto/desenvolupament.md)
 
 ## Introducció
 
@@ -42,8 +41,6 @@ Les tecnologies basades en IA requereixen un gran poder de càlcul, augmentant l
 #### **Increment en la demanda de recursos computacionals**
 
 L'ús de models d'IA intensius en càlcul augmenta la necessitat de recursos computacionals especialitzats, elevant costos i consum de recursos.
-
-![Demanda de Recursos Computacionals](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOtEfci3Rrd8qYN6eN9JvRMNJoGgEC1ofZKQ&s)
 
 ---
 
