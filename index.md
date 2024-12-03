@@ -3,7 +3,7 @@
 1. [Xarxes](https://github.com/JiajunYe-ITB2425/manual-IA-ASIX/blob/main/xarxes.md)
 2. [Gestió de la Seguretat](#gestió-de-la-seguretat)
 3. [Suport Tècnic](#suport-tècnic)
-4. [Anàlisi de Dades](analisis.md)
+4. [Anàlisi de Dades](https://github.com/JiajunYe-ITB2425/manual-IA-ASIX/blob/steven/analisis.md)
 5. [Desenvolupament](https://github.com/JiajunYe-ITB2425/manual-IA-ASIX/blob/alberto/desenvolupament.md)
 
 ## Introducció
