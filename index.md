@@ -1,4 +1,4 @@
-# Manual d'Intel·ligència Artificial per a Estudiants d'ASIR
+# Manual d'Intel·ligència Artificial per a Estudiants d'ASIX
 
 ## Índex
 
