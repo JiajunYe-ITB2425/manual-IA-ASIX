@@ -89,3 +89,5 @@
 - Realitzar processament de dades en moments de baixa demanda energètica.
 - Implementar solucions edge computing per reduir la transmissió de dades al núvol.
 - Compactar dades històriques per optimitzar l'espai d'emmagatzematge.
+
+![Alt text](https://www.google.com/search?sca_esv=f020a7a3a9c0faaa&q=redes+ia&udm=2&fbs=AEQNm0AbmnzNF3cHx7dqmvXz_M4cGQZIzGg2P3WWMVLKtTtFcEBd1igRg87UkFQ0uALhyG9_WTgljyApPaCoFwy2dbyP8KJOjwr2YKQ-hz9N6b5f3eMBrIBz92fSleHqqSSXq66y4xjCFrwUEf7sID_RkBGRZQo4-lmY1DBLcKEHsRRHGBQ77Tsg_UJzpMFtDy-Z-DLZQeUt&sa=X&ved=2ahUKEwjZmNyykouKAxXhUKQEHauMN-4QtKgLegQIDhAB&biw=1920&bih=932&safe=active&ssui=on#vhid=arLtMq15lJS_bM&vssid=mosaic)
