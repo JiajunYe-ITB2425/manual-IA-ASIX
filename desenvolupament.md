@@ -22,7 +22,7 @@ GitHub Copilot és un assistent de codificació impulsat per IA que suggereix co
 # Demana a Copilot de generar una funció de factorial
 def factorial(n):
     # Copilot generarà automàticament la implementació
-
+```
 ### TabNine
 
 TabNine és una eina d'autocompletat intel·ligent que utilitza models de llenguatge d'IA per analitzar el context del codi i proporcionar suggeriments.
