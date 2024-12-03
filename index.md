@@ -28,7 +28,7 @@ Mitjançant la detecció anticipada de fallades, la IA ajuda a identificar probl
 
 Els sistemes basats en IA poden detectar amenaces en temps real i implementar respostes automàtiques. Això augmenta la seguretat general de les xarxes i sistemes, amb la capacitat de prevenir atacs abans que aquests s'executin completament.
 
-![Seguretat i Resposta a Amenaces](https://via.placeholder.com/500x250?text=Seguretat+i+Resposta+a+Amenaces)
+![Seguretat i Resposta a Amenaces](https://www.prosegur.es/dam/jcr:72deee6d-a8f9-4d96-8aee-84c61e667365/Qu%C3%A9%20valor%20aporta%20la%20seguridad%20a%20tu%20empresa.webp)
 
 ### Impacte ambiental
 
@@ -36,13 +36,13 @@ Els sistemes basats en IA poden detectar amenaces en temps real i implementar re
 
 Les tecnologies basades en IA requereixen un gran poder de càlcul, el que incrementa la demanda d'energia en els centres de dades. Això pot portar a un augment del consum energètic, especialment amb l'ús de models d'IA més complexes.
 
-![Consum Energètic en Centres de Dades](https://via.placeholder.com/500x250?text=Consum+Energètic+en+Centres+de+Dades)
+![Consum Energètic en Centres de Dades](https://abdc.es/wp-content/uploads/2024/06/impacto-ambiental-acumulativo-e1717758757616.jpg)
 
 #### **Increment en la demanda de recursos computacionals**
 
 L'ús massiu de la IA en diversos processos, com la formació de models d'aprenentatge automàtic, pot portar a una major necessitat de recursos tecnològics i hardware especialitzat. Això pot incrementar la pressió sobre les infraestructures de TI, elevant tant els costos com el consum de recursos.
 
-![Demanda de Recursos Computacionals](https://via.placeholder.com/500x250?text=Demanda+de+Recursos+Computacionals)
+![Demanda de Recursos Computacionals](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOtEfci3Rrd8qYN6eN9JvRMNJoGgEC1ofZKQ&s)
 
 ---
 
