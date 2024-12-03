@@ -43,8 +43,6 @@ Les tecnologies basades en IA requereixen un gran poder de càlcul, augmentant l
 
 L'ús de models d'IA intensius en càlcul augmenta la necessitat de recursos computacionals especialitzats, elevant costos i consum de recursos.
 
-![Demanda de Recursos Computacionals](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOtEfci3Rrd8qYN6eN9JvRMNJoGgEC1ofZKQ&s)
-
 ---
 
 A través de la IA, l'Administració de Sistemes Informàtics en Xarxa experimenta millores en eficiència i seguretat, però també enfronta reptes ambientals derivats del consum energètic i la demanda de recursos computacionals.
