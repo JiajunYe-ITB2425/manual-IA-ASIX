@@ -23,13 +23,13 @@ La IA automatitza tasques i millora la gestió de xarxes, optimitzant el rendime
 
 La IA detecta fallades abans que afectin els usuaris, reduint el temps d'inactivitat i la necessitat d'intervenció manual.
 
-![Reducció d'Errors Humans](https://industrialmindset.com/wp-content/uploads/2024/10/por-que-ocurren-los-errores-humanos-y-como-reducir-su-frecuencia.jpg)
+![Reducció d'Errors Humans](https://martinbrainon.com/inicio/wp-content/uploads/2018/01/lead-nuclear-power-human-error-homer-simpson-1.jpg)
 
 #### **Millora en la seguretat i resposta a amenaces**
 
 Els sistemes basats en IA detecten amenaces en temps real i implementen respostes automàtiques, millorant la seguretat de les xarxes i sistemes.
 
-![Seguretat i Resposta a Amenaces](https://www.prosegur.es/dam/jcr:72deee6d-a8f9-4d96-8aee-84c61e667365/Qu%C3%A9%20valor%20aporta%20la%20seguridad%20a%20tu%20empresa.webp)
+![Seguretat i Resposta a Amenaces](https://media.istockphoto.com/id/984725616/es/vector/proteger-con-seguridad-y-marca-el-icono-sobre-fondo-blanco.jpg?s=612x612&w=0&k=20&c=xp89Oh44Eg8UdrYeDVZ69mFpwJPCq9VD1FJmlOiv7y0=)
 
 ### Impacte ambiental
 
