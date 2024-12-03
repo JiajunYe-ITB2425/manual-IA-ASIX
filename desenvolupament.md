@@ -36,9 +36,10 @@ TabNine és una eina d'autocompletat intel·ligent que utilitza models de llengu
 - **Desavantatge:** 
   - Pot consumir molts recursos del sistema, especialment en la seva versió de xarxa neuronal.
 
-### Codeium
+### V0Dev
 
 Codeium és una eina dissenyada per millorar l'eficiència i la precisió en l'escriptura de codi.
+![V0.dev](V0Dev.png)
 
 - **Característiques:**
   - Compatibilitat amb més de 40 llenguatges de programació
