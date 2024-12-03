@@ -1,114 +1,91 @@
-# IAs Relacionades amb Xarxes (ASIX)
+# Models d'IA per a Xarxes (ASIX)
 
-## 1. Sistemes de Detecció i Prevenció d'Intrusions (IDS/IPS)
+## 1. **OpenAI Codex (Suport tècnic i configuració de xarxes)**
 
-### Aplicacions de la IA
-- Monitorització del trànsit de xarxa per identificar anomalies.
-- Detecció de patrons d'atac mitjançant algoritmes de Machine Learning.
-- Automatització de respostes en temps real per prevenir ciberatacs.
+### Aplicacions de la IA:
+- Automatització de configuracions de xarxes amb codis predefinits.
+- Generació d'scripts per gestionar switches i routers.
+- Diagnòstic d'errors mitjançant anàlisi de logs.
 
-### Impacte al sector
-- Millora significativa en la seguretat de les xarxes.
-- Reducció del temps de resposta davant d'incidents.
-- Minimització de riscos i pèrdues econòmiques associades a ciberatacs.
+### Impacte al sector:
+- Reducció de temps en la configuració manual de dispositius.
+- Major precisió en el desenvolupament de solucions tècniques.
+- Facilitat d'ús per administradors amb menys experiència.
 
-### Impacte ambiental
-- Consum elevat d'energia en entrenar models complexos de Machine Learning.
-- Increment de la necessitat de maquinari específic, com GPU o FPGA.
+### Impacte ambiental:
+- Consum energètic elevat en sistemes de computació per entrenar i desplegar el model.
+- Necessitat de grans quantitats de dades per entrenar el model.
 
-### Propostes per minimitzar els impactes ambientals
-- Utilitzar fonts d'energia renovables per alimentar els centres de dades.
-- Optimitzar els models d'IA per reduir el consum energètic.
-- Reutilitzar o reciclar maquinari obsolet.
-
----
-
-## 2. Optimització del trànsit de xarxa
-
-### Aplicacions de la IA
-- Predicció de congestions en xarxes mitjançant l'anàlisi de dades.
-- Configuració automàtica de dispositius per a un ús més eficient de l'ample de banda.
-- Millora de QoS (Qualitat del Servei) en aplicacions crítiques.
-
-### Impacte al sector
-- Increment de la velocitat i eficiència de les comunicacions.
-- Reducció del temps d'inactivitat en xarxes grans.
-- Simplificació de la gestió de xarxes complexes.
-
-### Impacte ambiental
-- Necessitat de processar grans quantitats de dades en temps real.
-- Ús continuat d'infraestructures de xarxa amb alt consum energètic.
-
-### Propostes per minimitzar els impactes ambientals
-- Implementar algoritmes d'aprenentatge lleuger per reduir el consum.
-- Consolidar centres de dades per augmentar l'eficiència energètica.
-- Fomentar pràctiques de refrigeració eficient en infraestructures TIC.
+### Propostes per minimitzar els impactes ambientals:
+- Entrenar el model utilitzant energia renovable.
+- Optimitzar els algoritmes per consumir menys recursos.
+- Implementar computació distribuïda en nodes energèticament eficients.
 
 ---
 
-## 3. Xarxes Definides per Programari (SDN)
+## 2. **TensorFlow Decision Forests (Predicció de trànsit de xarxa)**
 
-### Aplicacions de la IA
-- Automatització de la gestió i control de les xarxes.
-- Anàlisi predictiva per optimitzar el rendiment de les xarxes.
-- Detecció i mitigació automàtica d'errors en configuracions.
+### Aplicacions de la IA:
+- Anàlisi de patrons de trànsit en temps real.
+- Predicció d'avaries o colls d'ampolla.
+- Optimització automàtica de l'ample de banda.
 
-### Impacte al sector
-- Augment de la flexibilitat en el desplegament i gestió de xarxes.
-- Reducció dels costos operatius gràcies a la programabilitat.
-- Facilita la implementació de solucions híbrides i al núvol.
+### Impacte al sector:
+- Millora en l'assignació de recursos de xarxa.
+- Reducció d'interrupcions i temps d'inactivitat.
+- Facilitat per planificar l'escalabilitat de la xarxa.
 
-### Impacte ambiental
-- Alta dependència de centres de dades per a l'execució d'algoritmes i la gestió remota.
-- Increment de dispositius connectats i, per tant, del consum d'energia global.
+### Impacte ambiental:
+- Consum energètic constant per processar dades de xarxa.
+- Necessitat de centres de dades per suportar operacions en temps real.
 
-### Propostes per minimitzar els impactes ambientals
-- Adoptar arquitectures més eficients en el consum energètic.
-- Potenciar l'ús d'infraestructures virtuals per reduir dispositius físics.
-- Utilitzar eines de monitorització energètica en temps real.
-
----
-
-## 4. Anàlisi de trànsit xifrat
-
-### Aplicacions de la IA
-- Identificació de ciberamenaces en dades xifrades sense desxifrar-les.
-- Classificació de trànsit per optimitzar la seguretat i rendiment.
-- Anàlisi d'usos fraudulents o il·lícits de la xarxa.
-
-### Impacte al sector
-- Millora de la seguretat sense comprometre la privacitat.
-- Reducció de les vulnerabilitats en entorns de comunicació sensibles.
-- Facilitació del compliment normatiu en sectors regulats.
-
-### Impacte ambiental
-- Requeriments computacionals significatius per analitzar grans volums de dades.
-- Consum energètic elevat per mantenir sistemes de monitorització actius.
-
-### Propostes per minimitzar els impactes ambientals
-- Desenvolupar tecnologies d'IA específiques amb menys requeriments computacionals.
-- Fomentar l'ús d'energia verda en operacions de monitorització.
-- Prioritzar l'anàlisi de trànsit en punts crítics per reduir càrregues innecessàries.
+### Propostes per minimitzar els impactes ambientals:
+- Entrenar models només quan sigui necessari, no contínuament.
+- Usar frameworks optimitzats energèticament com PyTorch o TensorFlow Lite.
+- Migrar a sistemes que suportin computació en el núvol amb energia verda.
 
 ---
 
-## 5. Gestió d'amenaces avançades (APT)
+## 3. **Deep Reinforcement Learning (DRL) per a SDN**
 
-### Aplicacions de la IA
-- Identificació de comportaments sospitosos a llarg termini.
-- Correlació automàtica d'esdeveniments en temps real per detectar APTs.
-- Generació d'alertes proactives per protegir la infraestructura.
+### Aplicacions de la IA:
+- Optimització dinàmica del trànsit en xarxes definides per programari.
+- Automatització de la gestió d'itineraris.
+- Aprenentatge adaptatiu per gestionar canvis de càrrega.
 
-### Impacte al sector
-- Reducció de riscos de robatori d'informació i interrupció de serveis.
-- Increment de la confiança en sistemes de seguretat de xarxes.
-- Capacitat de resposta més ràpida a amenaces emergents.
+### Impacte al sector:
+- Augment de la flexibilitat i adaptabilitat de les xarxes.
+- Reducció de la intervenció humana en la configuració.
+- Implementació més eficient de polítiques de qualitat de servei (QoS).
 
-### Impacte ambiental
-- Utilització intensiva de recursos computacionals per entrenar i executar models d'IA.
-- Necessitat de mantenir infraestructures de xarxa actives constantment.
+### Impacte ambiental:
+- Elevat consum de recursos computacionals en entrenar models DRL.
+- Increment d'emissions degut a l'ús prolongat d'equips físics.
 
-### Propostes per minimitzar els impactes ambientals
-- Aplicar tècniques d'entrenament federat per reduir la càrrega computacional centralitzada.
-- Optimitzar l'ús de recursos a través de la virtualització.
-- Establir polítiques de desconnexió de sistemes inactius.
+### Propostes per minimitzar els impactes ambientals:
+- Utilitzar plataformes de simulació en lloc de proves físiques per entrenar models.
+- Incorporar mecanismes de manteniment preventiu per allargar la vida útil del maquinari.
+- Reduir la complexitat dels models sense perdre funcionalitat.
+
+---
+
+## 4. **Splunk Machine Learning Toolkit (Monitorització i detecció d'anomalies)**
+
+### Aplicacions de la IA:
+- Detecció d'intrusions en temps real.
+- Monitorització de logs per identificar comportaments anòmals.
+- Creació de patrons predictius per a prevenció d'atacs.
+
+### Impacte al sector:
+- Reducció de riscos de seguretat gràcies a la prevenció proactiva.
+- Millora del rendiment del sistema en detectar i solucionar problemes abans que es manifestin.
+- Menor dependència de la supervisió manual.
+
+### Impacte ambiental:
+- Altes exigències energètiques per mantenir l'anàlisi constant dels logs.
+- Gran quantitat d'emmagatzematge necessària per dades històriques.
+
+### Propostes per minimitzar els impactes ambientals:
+- Realitzar processament de dades en moments de baixa demanda energètica.
+- Implementar solucions edge computing per reduir la transmissió de dades al núvol.
+- Compactar dades històriques per optimitzar l'espai d'emmagatzematge.
