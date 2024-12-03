@@ -1,5 +1,3 @@
-# Manual d'Intel·ligència Artificial per a Estudiants d'ASIX
-
 ## Índex
 
 1. [Introducció](#introducció)
@@ -12,16 +10,15 @@
 
 ## Introducció
 
-Aquest manual proporciona una visió general de les aplicacions de la Intel·ligència Artificial (IA) en diversos camps relacionats amb l'Administració de Sistemes Informàtics en Xarxa (ASIX). Cada secció cobreix les aplicacions de la IA, l'impacte al sector, l'impacte ambiental i propostes per minimitzar els impactes ambientals.
+Aquest manual ofereix una visió general sobre com la Intel·ligència Artificial (IA) s'aplica a l'Administració de Sistemes Informàtics en Xarxa (ASIX). L'objectiu és ajudar els estudiants a entendre com la IA pot millorar l'eficiència, la seguretat i la gestió de les xarxes i els sistemes informàtics. A través de diversos exemples i àrees d'aplicació, el manual explora com la IA està transformant aquest sector i com els professionals poden aprofitar aquesta tecnologia per optimitzar processos i reduir errors humans.
 
 ### Impacte al sector
 
-- Major eficiència i rendiment de les xarxes
-- Reducció de temps d'inactivitat i errors humans
-- Millora en la seguretat i resposta a amenaces
+- **Major eficiència i rendiment de les xarxes:** L'automatització de tasques i l'optimització de la gestió de xarxes a través de la IA millora el rendiment global.
+- **Reducció de temps d'inactivitat i errors humans:** La IA permet detectar i resoldre problemes abans que afectin els usuaris, disminuint el temps d'inactivitat i la intervenció manual.
+- **Millora en la seguretat i resposta a amenaces:** La IA millora les capacitats de seguretat mitjançant sistemes de detecció automàtica i resposta a amenaces en temps real.
 
 ### Impacte ambiental
 
-- Augment del consum energètic en centres de dades
-- Increment en la demanda de recursos computacionals
-
+- **Augment del consum energètic en centres de dades:** Les tecnologies basades en IA requereixen un alt poder de càlcul, cosa que incrementa la demanda d'energia.
+- **Increment en la demanda de recursos computacionals:** L'ús massiu de la IA en diferents processos pot portar a una major necessitat de recursos tecnològics i hardware especialitzat.
