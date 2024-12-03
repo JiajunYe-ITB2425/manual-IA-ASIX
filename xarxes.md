@@ -21,4 +21,4 @@
 - Optimitzar els algoritmes per consumir menys recursos.
 - Implementar computació distribuïda en nodes energèticament eficients.
 
-![](https://ipmark.com/wp-content/uploads/inteligencia-artificial-escucha-redes-sociales.jpg)
+![]([https://ipmark.com/wp-content/uploads/inteligencia-artificial-escucha-redes-sociales.jpg](https://img.freepik.com/fotos-premium/ilustracion-configuracion-red-domestica-segura-proteccion-router-cortafuegos_1314467-213943.jpg))
