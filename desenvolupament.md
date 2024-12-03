@@ -6,7 +6,7 @@ La intel·ligència artificial està transformant el desenvolupament de programa
 
 ## GitHub Copilot
 
-![GitHub Copilot Logo](https://github.githubassets.com/images/modules/site/copilot/copilot-hero-image.png)
+![GitHub Copilot Logo](https://aps.autodesk.com/sites/default/files/2024-10/Screenshot%202024-10-03%20at%2015.34.40.png)
 
 GitHub Copilot és un assistent de codificació impulsat per IA que suggereix codi i funcions completes en temps real.
 
