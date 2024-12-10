@@ -32,9 +32,7 @@ GitHub Copilot és un assistent de codificació impulsat per IA que suggereix co
 
 - **Gratuït per a usuaris individuals** amb un límit d'ús.
 - **Versió de pagament** per a empreses i equips amb funcionalitats addicionals com a privacitat i control.
-
----
-
+  
 ### Exemple de Codi
 
 ```python
@@ -42,6 +40,7 @@ GitHub Copilot és un assistent de codificació impulsat per IA que suggereix co
 def factorial(n):
     # Copilot generarà automàticament la implementació
 ```
+---
 ### TabNine
 ![GitHub Copilot Logo](https://cdn.ourcrowd.com/wp-content/uploads/2021/08/tabnine-logo.png)
 
