@@ -12,6 +12,7 @@ La **intel·ligència artificial (IA)** està transformant el desenvolupament de
 
 **GitHub Copilot** és un assistent de codificació basat en IA creat per ajudar els desenvolupadors suggerint codi i funcions completes en temps real. Integrat perfectament amb IDEs populars com Visual Studio Code, GitHub Copilot fa que el procés de programació sigui més ràpid i eficient.
 
+<img src="https://clickup.com/blog/wp-content/uploads/2023/10/GitHub-Copilot.png" alt="Us de GitHub Copilot" whidt="500" height="auto">
 ### Característiques Principals
 
 - **Generació Automàtica de Codi**: Copilot suggereix línies de codi i funcions completes mentre escrius, estalviant temps i reduint errors.
