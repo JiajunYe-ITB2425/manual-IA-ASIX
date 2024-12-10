@@ -54,12 +54,9 @@ def factorial(n):
         return n * factorial(n - 1)
 ```
 
----
-
-    
+---    
 ## TabNine
 <img src="https://cdn.ourcrowd.com/wp-content/uploads/2021/08/tabnine-logo.png" alt="Logo TabNine" width="500" height="auto">
-
 
 TabNine és una eina d'autocompletat intel·ligent que utilitza models de llenguatge d'IA per analitzar el context del codi i proporcionar suggeriments.
 
@@ -101,7 +98,7 @@ TabNine és una eina d'autocompletat intel·ligent que utilitza models de llengu
 - **Optimització del flux de treball dels desenvolupadors:** V0Dev proporciona suggeriments contextuels i intel·ligents, millorant la productivitat i agilitzant el procés de codificació. S'adapta als patrons i preferències de l'usuari per oferir recomanacions més rellevants i personalitzades.
 
 - **Generació automàtica de codi i refactorització:** L'eina pot generar codi de manera automàtica, així com realitzar refactorització de codi existent, optimitzant-lo per a millorar la seva llegibilitat i eficiència.
----
+
 #### Exemple de codi amb V0Dev
 
 Imagina que estàs desenvolupant una API amb **Flask** en Python i necessites definir noves rutes per a l'aplicació. V0Dev pot suggerir el codi complet de la següent manera:
