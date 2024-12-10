@@ -147,4 +147,4 @@ def home():
 
 
 ### **Fonts Utilitzades**
-[Desenvolupament de codi IA](https://clickup.com/es-ES/blog/108886/herramientas-de-ia-para-desarrolladores)
+[Desenvolupament de codi amb IA](https://clickup.com/es-ES/blog/108886/herramientas-de-ia-para-desarrolladores)
