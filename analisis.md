@@ -75,7 +75,7 @@ Aquesta consulta retornarà només els clients amb una probabilitat superior al 
 - **Model no convergent:** Revisa que les dades estiguin ben balancejades (evita classes molt desproporcionades).
 - **Costos elevats:** Configura límits de processament i revisions automàtiques per evitar càrrecs inesperats.
 
-<img src="https://switchboard-software.com/wp-content/uploads/2023/06/Google-BigQuery.jpeg" alt="Logo de BigQuery" width="400" height="300">
+<img src="https://switchboard-software.com/wp-content/uploads/2023/06/Google-BigQuery.jpeg" alt="Logo de BigQuery" width="500" height="250">
 
 ## Conclusió
 Google BigQuery amb AutoML és una eina versàtil que permet obtenir insights valuosos de les dades. Amb aquesta guia, podràs preparar les teves dades, entrenar models personalitzats i fer prediccions amb facilitat.
