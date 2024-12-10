@@ -14,9 +14,10 @@ Google BigQuery amb AutoML permet analitzar grans volums de dades i construir mo
 - Redueix el temps i esforç necessari per a l'anàlisi de dades complexes.
 - Proporciona eines accessibles per a usuaris no tècnics.
 
-## Impacte Ambiental
-- Alt consum energètic per processar grans volums de dades.
-- Emissions associades als centres de dades.
+## Impacte Ambiental i Consells d'Eficiència
+- **Consell 1:** Redueix la mida del dataset si no és necessari processar totes les dades.
+- **Consell 2:** Entrena el model només quan sigui necessari (per exemple, un cop al mes).
+- **Consell 3:** Configura l'ús d'infraestructura basada en energia renovable al Google Cloud Console.
 
 ## Propostes per Minimitzar l'Impacte
 - Consolidar centres de dades per augmentar l'eficiència energètica.
@@ -68,10 +69,6 @@ Aquesta consulta retornarà només els clients amb una probabilitat superior al 
 - **Anàlisi dels resultats:** Revisa les mètriques del model (precisió, sensibilitat, etc.).
 - **Entrenament amb dades noves:** Actualitza el model amb dades més recents per millorar la seva precisió.
 
-## Impacte Ambiental i Consells d'Eficiència
-- **Consell 1:** Redueix la mida del dataset si no és necessari processar totes les dades.
-- **Consell 2:** Entrena el model només quan sigui necessari (per exemple, un cop al mes).
-- **Consell 3:** Configura l'ús d'infraestructura basada en energia renovable al Google Cloud Console.
 
 ## Resolució de Problemes
 - **Error en carregar dades:** Verifica que les columnes i tipus de dades siguin correctes.
