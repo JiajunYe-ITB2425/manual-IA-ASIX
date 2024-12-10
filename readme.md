@@ -14,33 +14,4 @@ En aquest manual, abordarem com les aplicacions de la Intel·ligència Artificia
 
 A més de les oportunitats, és imprescindible reflexionar sobre els impactes ambientals associats a aquestes tecnologies. L’augment del consum energètic en els centres de dades i la generació de residus electrònics són qüestions que cal abordar per garantir que la nostra evolució tecnològica sigui compatible amb la sostenibilitat. Així, també explorarem propostes per minimitzar aquests impactes ambientals, com l'optimització de recursos i la implementació de pràctiques més sostenibles.
 
-En aquest manual, explicarem en detall cada un d’aquests temes: com la gestió de xarxes, la seguretat, el suport tècnic, l’anàlisi de dades i el desenvolupament influeixen en el sector tecnològic, com afecta la IA a aquestes àrees i, finalment, quines solucions poden ajudar-nos a equilibrar la innovació amb la sostenibilitat. Tot això amb l'objectiu de proporcionar una visió completa de com les tecnologies actuals impacten en el món que ens envolta i quines eines tenim per afrontar aquests reptes.
-### Impacte al sector
-
-#### **Major eficiència i rendiment de les xarxes**
-
-La IA automatitza tasques i millora la gestió de xarxes, optimitzant el rendiment i minimitzant temps d'inactivitat.
-
-#### **Reducció de temps d'inactivitat i errors humans**
-
-La IA detecta fallades abans que afectin els usuaris, reduint el temps d'inactivitat i la necessitat d'intervenció manual.
-
-![Reducció d'Errors Humans](https://github.com/JiajunYe-ITB2425/manual-IA-ASIX/blob/main/error.jpg)
-
-#### **Millora en la seguretat i resposta a amenaces**
-
-Els sistemes basats en IA detecten amenaces en temps real i implementen respostes automàtiques, millorant la seguretat de les xarxes i sistemes.
-
-### Impacte ambiental
-
-#### **Augment del consum energètic en centres de dades**
-
-Les tecnologies basades en IA requereixen un gran poder de càlcul, augmentant la demanda energètica dels centres de dades.
-
-#### **Increment en la demanda de recursos computacionals**
-
-L'ús de models d'IA intensius en càlcul augmenta la necessitat de recursos computacionals especialitzats, elevant costos i consum de recursos.
-
----
-
-A través de la IA, l'Administració de Sistemes Informàtics en Xarxa experimenta millores en eficiència i seguretat, però també enfronta reptes ambientals derivats del consum energètic i la demanda de recursos computacionals.
+En aquest manual, explicarem en detall cada un d’aquests temes: com la gestió de xarxes, la seguretat, el suport tècnic, l’anàlisi de dades i el desenvolupament influeixen en el sector tecnològic, com afecta la IA a aquestes àrees i, finalment, quines solucions poden ajudar-nos a equilibrar la innovació amb la sostenibilitat. Tot això amb l'objectiu de proporcionar una visió completa de com les tecnologies actuals impacten en el món que ens envolta i quines eines tenim per afrontar aquests reptes
