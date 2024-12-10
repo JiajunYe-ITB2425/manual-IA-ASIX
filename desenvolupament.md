@@ -47,13 +47,29 @@ def factorial(n):
 
 TabNine és una eina d'autocompletat intel·ligent que utilitza models de llenguatge d'IA per analitzar el context del codi i proporcionar suggeriments.
 
-- **Avantatges:**
-  - Compatibilitat amb diversos llenguatges de programació
-  - Adaptació a l'estil de codificació de l'usuari
-  - Acceleració del procés d'escriptura de codi
+#### Característiques Principals
 
-- **Desavantatge:** 
-  - Pot consumir molts recursos del sistema, especialment en la seva versió de xarxa neuronal.
+- **Autocompletat Intel·ligent**: Genera suggeriments de codi automàticament a mesura que escrius.
+- **Adapta’s a l'Estil de Codificació**: S'adapta als patrons d'escriptura del desenvolupador per proporcionar suggeriments més personalitzats.
+- **Compatibilitat Multilenguatge**: Suporta més de 20 llenguatges de programació com Python, JavaScript, Java, C++, etc.
+
+#### Avantatges
+
+- **Rendiment Alt**: Ofereix suggeriments de codi més ràpids gràcies a l'anàlisi en temps real del codi.
+- **Millora la Qualitat del Codi**: Permet als desenvolupadors escriure codi més net i millor organitzat.
+- **Integració Flexible**: Funciona bé amb molts editors de codi com Visual Studio Code, IntelliJ i altres.
+
+#### Desavantatges
+
+- **Consum de Recursos**: Pot consumir una quantitat important de recursos del sistema, especialment en la versió més avançada.
+- **Dependència d'Internet**: La versió de xarxa neuronal pot necessitar connexió a Internet per a funcionar de manera òptima.
+
+#### Preu
+
+- **Gratuït** per a usuaris individuals.
+- **Versió de pagament** per a equips i empreses amb funcionalitats addicionals com la sincronització en núvol i l'emmagatzematge personalitzat de dades.
+
+---
 
 ### V0Dev
 
