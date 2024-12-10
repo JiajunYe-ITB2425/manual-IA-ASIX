@@ -1,8 +1,8 @@
 ## Índex
 
 1. [Xarxes](https://jiajunye-itb2425.github.io/manual-IA-ASIX/xarxes)
-2. [Gestió de la Seguretat](https://github.com/JiajunYe-ITB2425/manual-IA-ASIX/blob/Gerson/Gesti%C3%B3%20de%20seguretat.md)
-3. [Suport Tècnic](#suport-tècnic)
+2. [Gestió de la Seguretat](https://jiajunye-itb2425.github.io/manual-IA-ASIX/seguretat)
+3. [Suport Tècnic](https://jiajunye-itb2425.github.io/manual-IA-ASIX/suport)
 4. [Anàlisi de Dades](https://jiajunye-itb2425.github.io/manual-IA-ASIX/analisis)
 5. [Desenvolupament](https://jiajunye-itb2425.github.io/manual-IA-ASIX/desenvolupament)
 
