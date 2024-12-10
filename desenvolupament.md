@@ -146,3 +146,5 @@ def home():
   Tot i que V0Dev és bastant precís, la IA pot generar codi incorrecte o no òptim, el qual ha de ser revisat pel desenvolupador abans d'implementar-lo.
 
 
+### **Webgrafia**
+[Desenvolupament de codi IA](https://www.perplexity.ai/search/desenvolupament-de-codi-ia-per-qnViAR.dT0qT2_zBc3k.iQ)
