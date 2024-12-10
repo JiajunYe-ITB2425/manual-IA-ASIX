@@ -65,18 +65,18 @@ TabNine és una eina d'autocompletat intel·ligent que utilitza models de llengu
 - **Autocompletat Intel·ligent**: Genera suggeriments de codi automàticament a mesura que escrius.
 - **Adapta’s a l'Estil de Codificació**: S'adapta als patrons d'escriptura del desenvolupador per proporcionar suggeriments més personalitzats.
 - **Compatibilitat Multilenguatge**: Suporta més de 20 llenguatges de programació com Python, JavaScript, Java, C++, etc.
-
+---
 #### Avantatges
 
 - **Rendiment Alt**: Ofereix suggeriments de codi més ràpids gràcies a l'anàlisi en temps real del codi.
 - **Millora la Qualitat del Codi**: Permet als desenvolupadors escriure codi més net i millor organitzat.
 - **Integració Flexible**: Funciona bé amb molts editors de codi com Visual Studio Code, IntelliJ i altres.
-
+---
 #### Desavantatges
 
 - **Consum de Recursos**: Pot consumir una quantitat important de recursos del sistema, especialment en la versió més avançada.
 - **Dependència d'Internet**: La versió de xarxa neuronal pot necessitar connexió a Internet per a funcionar de manera òptima.
-
+---
 #### Preu
 
 - **Gratuït** per a usuaris individuals.
@@ -88,7 +88,7 @@ TabNine és una eina d'autocompletat intel·ligent que utilitza models de llengu
 **V0Dev** és una eina dissenyada per millorar l'eficiència i la precisió en l'escriptura de codi, especialment pensada per als desenvolupadors que volen accelerar el seu flux de treball i reduir els errors en el procés de codificació. Aquesta eina utilitza IA per suggerir automàticament línies de codi, gestionar funcions i fins i tot predir el que el desenvolupador vol escriure a continuació, tot adaptant-se a l'estil de codificació de l'usuari.
 
 <img src="https://github.com/JiajunYe-ITB2425/manual-IA-ASIX/blob/alberto/Captura%20de%20pantalla%20de%202024-12-03%2009-21-55.png" alt="Logo V0Dev" width="500" height="auto">
-
+---
 #### Característiques
 
 - **Compatibilitat amb més de 40 llenguatges de programació:** V0Dev suporta una gran varietat de llenguatges de programació, com Python, JavaScript, Java, Ruby, Go, entre d'altres, permetent als desenvolupadors treballar amb la seva eina preferida.
@@ -96,7 +96,7 @@ TabNine és una eina d'autocompletat intel·ligent que utilitza models de llengu
 - **Optimització del flux de treball dels desenvolupadors:** V0Dev proporciona suggeriments contextuels i intel·ligents, millorant la productivitat i agilitzant el procés de codificació. S'adapta als patrons i preferències de l'usuari per oferir recomanacions més rellevants i personalitzades.
 
 - **Generació automàtica de codi i refactorització:** L'eina pot generar codi de manera automàtica, així com realitzar refactorització de codi existent, optimitzant-lo per a millorar la seva llegibilitat i eficiència.
-
+---
 #### Exemple de codi amb V0Dev
 
 Imagina que estàs desenvolupant una API amb **Flask** en Python i necessites definir noves rutes per a l'aplicació. V0Dev pot suggerir el codi complet de la següent manera:
@@ -110,6 +110,7 @@ app = Flask(__name__)
 def home():
     return "Hola, món!"
 ```
+---
 ### **Avantatges de V0Dev**
 
 - **Millora l'eficiència:** 
