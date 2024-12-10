@@ -8,8 +8,9 @@ La **intel·ligència artificial (IA)** està transformant el desenvolupament de
 ---
 
 ## **GitHub Copilot**
+<img src="https://aps.autodesk.com/sites/default/files/2024-10/Screenshot%202024-10-03%20at%2015.34.40.png" alt="Logo GitHub Copilot" width="400" height="300">
 
-![GitHub Copilot Logo](https://aps.autodesk.com/sites/default/files/2024-10/Screenshot%202024-10-03%20at%2015.34.40.png)
+![GitHub Copilot Logo]()
 
 **GitHub Copilot** és un assistent de codificació basat en IA creat per ajudar els desenvolupadors suggerint codi i funcions completes en temps real. Integrat perfectament amb IDEs populars com Visual Studio Code, GitHub Copilot fa que el procés de programació sigui més ràpid i eficient.
 
