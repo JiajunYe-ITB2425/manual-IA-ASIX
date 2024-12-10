@@ -58,6 +58,7 @@ def factorial(n):
 ## TabNine
 <img src="https://cdn.ourcrowd.com/wp-content/uploads/2021/08/tabnine-logo.png" alt="Logo TabNine" width="500" height="auto">
 
+
 TabNine és una eina d'autocompletat intel·ligent que utilitza models de llenguatge d'IA per analitzar el context del codi i proporcionar suggeriments.
 
 #### Característiques Principals
@@ -66,6 +67,8 @@ TabNine és una eina d'autocompletat intel·ligent que utilitza models de llengu
 - **Adapta’s a l'Estil de Codificació**: S'adapta als patrons d'escriptura del desenvolupador per proporcionar suggeriments més personalitzats.
 - **Compatibilitat Multilenguatge**: Suporta més de 20 llenguatges de programació com Python, JavaScript, Java, C++, etc.
 ---
+<img src="https://clickup.com/blog/wp-content/uploads/2023/10/Tabnine.png" alt="Us de TabNine" whidth= "500" height="auto">
+
 #### Avantatges
 
 - **Rendiment Alt**: Ofereix suggeriments de codi més ràpids gràcies a l'anàlisi en temps real del codi.
