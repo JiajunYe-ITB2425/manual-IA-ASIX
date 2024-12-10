@@ -8,7 +8,7 @@ La **intel·ligència artificial (IA)** està transformant el desenvolupament de
 ---
 
 ## **GitHub Copilot**
-<img src="https://aps.autodesk.com/sites/default/files/2024-10/Screenshot%202024-10-03%20at%2015.34.40.png" alt="Logo GitHub Copilot" width="500" height="500">
+<img src="https://aps.autodesk.com/sites/default/files/2024-10/Screenshot%202024-10-03%20at%2015.34.40.png" alt="Logo GitHub Copilot" width="500" height="auto">
 
 **GitHub Copilot** és un assistent de codificació basat en IA creat per ajudar els desenvolupadors suggerint codi i funcions completes en temps real. Integrat perfectament amb IDEs populars com Visual Studio Code, GitHub Copilot fa que el procés de programació sigui més ràpid i eficient.
 
@@ -56,7 +56,7 @@ def factorial(n):
 
     
 ## TabNine
-<img src="https://cdn.ourcrowd.com/wp-content/uploads/2021/08/tabnine-logo.png" alt="Logo TabNine" width="500" height="500">
+<img src="https://cdn.ourcrowd.com/wp-content/uploads/2021/08/tabnine-logo.png" alt="Logo TabNine" width="500" height="auto">
 
 TabNine és una eina d'autocompletat intel·ligent que utilitza models de llenguatge d'IA per analitzar el context del codi i proporcionar suggeriments.
 
@@ -87,7 +87,7 @@ TabNine és una eina d'autocompletat intel·ligent que utilitza models de llengu
 
 **V0Dev** és una eina dissenyada per millorar l'eficiència i la precisió en l'escriptura de codi, especialment pensada per als desenvolupadors que volen accelerar el seu flux de treball i reduir els errors en el procés de codificació. Aquesta eina utilitza IA per suggerir automàticament línies de codi, gestionar funcions i fins i tot predir el que el desenvolupador vol escriure a continuació, tot adaptant-se a l'estil de codificació de l'usuari.
 
-<img src="https://github.com/JiajunYe-ITB2425/manual-IA-ASIX/blob/alberto/Captura%20de%20pantalla%20de%202024-12-03%2009-21-55.png" alt="Logo V0Dev" width="500" height="500">
+<img src="https://github.com/JiajunYe-ITB2425/manual-IA-ASIX/blob/alberto/Captura%20de%20pantalla%20de%202024-12-03%2009-21-55.png" alt="Logo V0Dev" width="500" height="auto">
 
 #### Característiques
 
