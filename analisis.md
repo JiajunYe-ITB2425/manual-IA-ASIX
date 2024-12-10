@@ -21,7 +21,7 @@ Google BigQuery amb AutoML permet analitzar grans volums de dades i construir mo
 ## Propostes per Minimitzar l'Impacte
 - Consolidar centres de dades per augmentar l'eficiència energètica.
 - Reduir la freqüència d'entrenament de models si no és estrictament necessari.
-- 
+
 # **Manual d’Ús de Google BigQuery amb AutoML per a l’Anàlisi de Dades**
 ---
 
