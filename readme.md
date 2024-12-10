@@ -88,5 +88,5 @@ El **raonament automàtic** es refereix a la capacitat dels sistemes per prendre
 ---
 ---
 
-Un cop hem establert els fonaments de la Intel·ligència Artificial (IA) i hem analitzat el seu funcionament, estem en una posició més sòlida per explorar els temes que es derivaran d’aquesta tecnologia. Ara que comprenem què és la IA i com opera, podem aprofundir amb confiança en les seves aplicacions en el suport tècnic, els impactes que genera en el sector i en el medi ambient, així com les estratègies per mitigar aquests efectes. Amb aquesta base, podem abordar de manera detallada els aspectes que ens ajudaran a entendre millor com la IA està transformant el nostre món i com podem gestionar aquest canvi de manera responsable."
+Un cop hem establert els fonaments de la Intel·ligència Artificial (IA) i hem analitzat el seu funcionament, estem en una posició més sòlida per explorar els temes que es derivaran d’aquesta tecnologia. Ara que comprenem què és la IA i com opera, podem aprofundir amb confiança en les seves aplicacions en el suport tècnic, els impactes que genera en el sector i en el medi ambient, així com les estratègies per mitigar aquests efectes. Amb aquesta base, podem abordar de manera detallada els aspectes que ens ajudaran a entendre millor com la IA està transformant el nostre món i com podem gestionar aquest canvi de manera responsable.
   
