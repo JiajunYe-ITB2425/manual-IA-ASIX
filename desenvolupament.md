@@ -1,3 +1,4 @@
+1. [Home](https://github.com/JiajunYe-ITB2425/manual-IA-ASIX/blob/main/xarxes.md)
 # Desenvolupament de Codi
 
 ## IA per al Desenvolupament de Codi
