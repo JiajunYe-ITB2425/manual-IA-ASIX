@@ -56,7 +56,7 @@ def factorial(n):
 
     
 ## TabNine
-![TabNine Logo](https://cdn.ourcrowd.com/wp-content/uploads/2021/08/tabnine-logo.png)
+<img src="https://cdn.ourcrowd.com/wp-content/uploads/2021/08/tabnine-logo.png" alt="Logo TabNine" width="600" height="400">
 
 TabNine és una eina d'autocompletat intel·ligent que utilitza models de llenguatge d'IA per analitzar el context del codi i proporcionar suggeriments.
 
@@ -87,7 +87,7 @@ TabNine és una eina d'autocompletat intel·ligent que utilitza models de llengu
 
 **V0Dev** és una eina dissenyada per millorar l'eficiència i la precisió en l'escriptura de codi, especialment pensada per als desenvolupadors que volen accelerar el seu flux de treball i reduir els errors en el procés de codificació. Aquesta eina utilitza IA per suggerir automàticament línies de codi, gestionar funcions i fins i tot predir el que el desenvolupador vol escriure a continuació, tot adaptant-se a l'estil de codificació de l'usuari.
 
-![V0Dev](https://github.com/JiajunYe-ITB2425/manual-IA-ASIX/blob/alberto/Captura%20de%20pantalla%20de%202024-12-03%2009-21-55.png)
+<img src="https://github.com/JiajunYe-ITB2425/manual-IA-ASIX/blob/alberto/Captura%20de%20pantalla%20de%202024-12-03%2009-21-55.png" alt="Logo V0Dev" width="600" height="400">
 
 #### Característiques
 
