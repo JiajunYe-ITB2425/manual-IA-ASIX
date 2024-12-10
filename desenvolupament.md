@@ -1,3 +1,4 @@
+
 # Desenvolupament de Codi
 
 ## IA per al Desenvolupament de Codi
@@ -83,11 +84,12 @@ TabNine és una eina d'autocompletat intel·ligent que utilitza models de llengu
 
 ---
 ### **V0Dev**
+<img src="https://i.postimg.cc/brLj8wxK/Captura-de-pantalla-de-2024-12-10-09-07-48.png" alt="Us de V0Dev" width="500" height="auto">
 
 **V0Dev** és una eina dissenyada per millorar l'eficiència i la precisió en l'escriptura de codi, especialment pensada per als desenvolupadors que volen accelerar el seu flux de treball i reduir els errors en el procés de codificació. Aquesta eina utilitza IA per suggerir automàticament línies de codi, gestionar funcions i fins i tot predir el que el desenvolupador vol escriure a continuació, tot adaptant-se a l'estil de codificació de l'usuari.
 
-<img src="https://github.com/JiajunYe-ITB2425/manual-IA-ASIX/blob/alberto/Captura%20de%20pantalla%20de%202024-12-03%2009-21-55.png" alt="Logo V0Dev" width="500" height="auto">
 ---
+
 #### Característiques
 
 - **Compatibilitat amb més de 40 llenguatges de programació:** V0Dev suporta una gran varietat de llenguatges de programació, com Python, JavaScript, Java, Ruby, Go, entre d'altres, permetent als desenvolupadors treballar amb la seva eina preferida.
@@ -144,4 +146,6 @@ def home():
   Tot i que V0Dev és bastant precís, la IA pot generar codi incorrecte o no òptim, el qual ha de ser revisat pel desenvolupador abans d'implementar-lo.
 
 
+
 [Tornar a la Home](https://github.com/JiajunYe-ITB2425/manual-IA-ASIX/blob/main/readme.md)
+
