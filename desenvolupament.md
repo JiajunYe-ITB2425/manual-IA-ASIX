@@ -1,4 +1,4 @@
-[Tornar a la Home](https://github.com/JiajunYe-ITB2425/manual-IA-ASIX/blob/main/readme.md)
+
 # Desenvolupament de Codi
 
 ## IA per al Desenvolupament de Codi
@@ -144,4 +144,7 @@ def home():
 - **Pot generar codi incorrecte:**
   Tot i que V0Dev és bastant precís, la IA pot generar codi incorrecte o no òptim, el qual ha de ser revisat pel desenvolupador abans d'implementar-lo.
 
+
+
+[Tornar a la Home](https://github.com/JiajunYe-ITB2425/manual-IA-ASIX/blob/main/readme.md)
 
