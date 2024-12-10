@@ -38,8 +38,6 @@ La **intel·ligència artificial (IA)** està transformant el desenvolupament de
 - **Gratuït per a usuaris individuals** amb un límit d'ús mensual.
 - **Versió de pagament** per a empreses i equips, que ofereix més funcionalitats com privacitat millorada, seguretat, i personalització per a equips de desenvolupament més grans.
 
----
-
 ### Exemple de Codi
 
 A continuació es mostra un exemple simple de com GitHub Copilot pot generar codi per a una funció de factorial en Python:
