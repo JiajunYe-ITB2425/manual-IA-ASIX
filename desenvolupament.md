@@ -42,8 +42,9 @@ def factorial(n):
     # Copilot generarà automàticament la implementació
 ```
 ---
-### TabNine
-![GitHub Copilot Logo](https://cdn.ourcrowd.com/wp-content/uploads/2021/08/tabnine-logo.png)
+## **TabNine**
+
+![TabNine Logo](https://cdn.ourcrowd.com/wp-content/uploads/2021/08/tabnine-logo.png)
 
 TabNine és una eina d'autocompletat intel·ligent que utilitza models de llenguatge d'IA per analitzar el context del codi i proporcionar suggeriments.
 
@@ -69,7 +70,6 @@ TabNine és una eina d'autocompletat intel·ligent que utilitza models de llengu
 - **Gratuït** per a usuaris individuals.
 - **Versió de pagament** per a equips i empreses amb funcionalitats addicionals com la sincronització en núvol i l'emmagatzematge personalitzat de dades.
 
----
 
 ### V0Dev
 
