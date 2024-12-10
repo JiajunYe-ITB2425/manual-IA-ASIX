@@ -10,11 +10,30 @@ La intel·ligència artificial està transformant el desenvolupament de programa
 
 GitHub Copilot és un assistent de codificació impulsat per IA que suggereix codi i funcions completes en temps real.
 
-### Característiques Principals
 
-- Generació automàtica de codi
-- Suport per múltiples llenguatges
-- Integrat amb Visual Studio Code
+#### Característiques Principals
+
+- **Generació Automàtica de Codi**: Proporciona suggeriments en temps real mentre escrius el codi.
+- **Suport per Múltiples Llenguatges**: Funciona amb diversos llenguatges de programació com Python, JavaScript, TypeScript, Ruby, Go, etc.
+- **Integració amb Visual Studio Code**: S'integra fàcilment en Visual Studio Code, un dels IDE més utilitzats.
+
+#### Avantatges
+
+- **Millora de la Productivitat**: Redueix el temps de desenvolupament al suggerir codi complet de manera automàtica.
+- **Suport per Diversos Llenguatges**: Permet als desenvolupadors treballar amb una àmplia varietat de tecnologies sense haver de configurar eines específiques.
+- **Augmenta la Qualitat del Codi**: Suggeriments per millorar la qualitat i la seguretat del codi.
+
+#### Desavantatges
+
+- **Dependència del Context**: Les suggerències poden no ser sempre adequades al context o al projecte específic.
+- **Limitacions en Projectes Complexos**: Potser no sempre aconsegueix captar la intenció completa del desenvolupador, especialment en projectes més complexos.
+
+#### Preu
+
+- **Gratuït per a usuaris individuals** amb un límit d'ús.
+- **Versió de pagament** per a empreses i equips amb funcionalitats addicionals com a privacitat i control.
+
+---
 
 ### Exemple de Codi
 
