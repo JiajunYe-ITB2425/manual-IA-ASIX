@@ -36,7 +36,7 @@ GitHub Copilot és un assistent de codificació impulsat per IA que suggereix co
   
 ### Exemple de Codi
 
-python
+python ´´´
 # Demana a Copilot de generar una funció de factorial
 def factorial(n):
     # Copilot generarà automàticament la implementació
