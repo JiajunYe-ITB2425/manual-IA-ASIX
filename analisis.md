@@ -41,7 +41,7 @@ Google BigQuery amb AutoML permet analitzar grans volums de dades i construir mo
    - Selecciona l’origen de les dades (arxiu CSV, JSON, etc.).
    - Defineix el nom del dataset i de la taula.
 3. Assegura’t que les dades estiguin netes i estructurades (columnes amb noms clars i tipus de dades correctes).
-<img src="https://miro.medium.com/v2/resize:fit:920/1*uoTzLiv72s6DqnlUge2qXQ.png" alt="Logo de BigQuery" width="800" height="300">
+<img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/image1_xUQd32s.max-2000x2000.jpg" alt="Logo de BigQuery" width="800" height="300">
 ---
 
 ## **Pas 2: Crear un Model AutoML**
