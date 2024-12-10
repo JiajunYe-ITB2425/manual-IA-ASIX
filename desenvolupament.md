@@ -1,15 +1,16 @@
-# Desenvolupament de codi
+# Desenvolupament de Codi
 
-## IA per al desenvolupament de codi
+## IA per al Desenvolupament de Codi
 
-La intel·ligència artificial està transformant el desenvolupament de programari, oferint eines que milloren l'eficiència i la qualitat del codi. Aquí tenim algunes de les IA més destacades per al desenvolupament de codi:
+La intel·ligència artificial (IA) està transformant el desenvolupament de programari, oferint eines que milloren l'eficiència i la qualitat del codi. Aquí tenim algunes de les IA més destacades per al desenvolupament de codi:
 
-## GitHub Copilot
+---
+
+## **GitHub Copilot**
 
 ![GitHub Copilot Logo](https://aps.autodesk.com/sites/default/files/2024-10/Screenshot%202024-10-03%20at%2015.34.40.png)
 
 GitHub Copilot és un assistent de codificació impulsat per IA que suggereix codi i funcions completes en temps real.
-
 
 #### Característiques Principals
 
