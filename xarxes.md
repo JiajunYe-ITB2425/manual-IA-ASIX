@@ -75,4 +75,4 @@ Cisco AI Network Analytics és una eina d'intel·ligència artificial dissenyada
 Cisco AI Network Analytics és una solució avançada per monitorar i optimitzar xarxes amb intel·ligència artificial. Amb aquesta guia, podràs maximitzar el rendiment de la teva infraestructura mentre minimitzes els costos operatius i l'impacte ambiental.
 
 
-[CiscoAI](https://img.freepik.com/fotos-premium/ilustracion-configuracion-red-domestica-segura-proteccion-router-cortafuegos_1314467-213943.jpg](https://storage.googleapis.com/blogs-images-new/ciscoblogs/1/5cf6b51060fac.jpg)
+[CiscoAI](https://storage.googleapis.com/blogs-images-new/ciscoblogs/1/5cf6b51060fac.jpg)
