@@ -33,7 +33,7 @@ Cisco AI Network Analytics és una eina d'intel·ligència artificial dissenyada
 1. **Visualitza l'ús de l'ample de banda:**  
    A la secció de monitoratge, pots veure les aplicacions que consumeixen més ample de banda.  
    - Exemple:  
-     ![Gràfic de consum d'ample de banda](https://example.com/bandwidth-usage.png)
+     ![Gràfic de consum d'ample de banda](https://www.manageengine.com/latam/netflow/images/bandwidth-consumption3.png)
 
 2. **Identifica anomalies:**  
    Cisco AI utilitza algoritmes avançats per detectar patrons anòmals en el trànsit. Rebràs alertes automàtiques en cas de problemes.
