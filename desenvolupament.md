@@ -59,6 +59,7 @@ Les eines d'IA permeten als desenvolupadors accedir fàcilment a noves tecnologi
 ---
 
 ## 3. Impacte Ambiental
+![Impacte Ambiental](https://www.repsol.com/content/dam/repsol-corporate/es/energia-e-innovacion/consumo-energetico-cabecera.jpg)
 ### **Consum Energètic**
 L'ús d'eines d'IA, especialment en entorns de núvol, pot augmentar el consum d'energia. Les eines com GitHub Copilot, TabNine i V0Dev depenen de centres de dades per a la seva operativa, contribuint al consum d'energia.
 
@@ -69,7 +70,7 @@ Els centres de dades utilitzats per executar IA poden generar emissions de CO₂
 ---
 
 ## 4. Propostes per Minimitzar els Impactes Ambientals
-![Impacte Ambiental](https://www.laecuaciondigital.com/wp-content/uploads/2024/06/energia-renovable_la-ecuacion-digital.jpg)
+![Propostes](https://www.laecuaciondigital.com/wp-content/uploads/2024/06/energia-renovable_la-ecuacion-digital.jpg)
 ### **Optimització del Consum Energètic**
 - Reduir la freqüència de suggeriments d'IA quan el desenvolupador no està actiu.
 - Configurar les eines perquè només es processen quan sigui absolutament necessari.
