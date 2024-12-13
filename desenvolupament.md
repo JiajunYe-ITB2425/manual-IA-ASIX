@@ -20,16 +20,19 @@ GitHub Copilot és un assistent de codificació basat en IA creat per ajudar els
 - Refactorització i optimització de funcions.
 - Suport per múltiples llenguatges de programació.
 
+---
 ### **TabNine**
 ![image](https://github.com/user-attachments/assets/d8808595-1869-4dbe-9ddc-7cb6003c01a6)
 
 TabNine és una eina d'autocompletat intel·ligent que utilitza models de llenguatge d'IA per analitzar el context del codi i proporcionar suggeriments.
 
+---
 **Aplicacions:**
 - Autocompletat intel·ligent de codi.
 - Suport per a més de 20 llenguatges de programació.
 - Adaptabilitat als patrons de codificació personals.
-
+  
+---
 ### **V0Dev**
 ![Us de V0Dev](https://i.postimg.cc/brLj8wxK/Captura-de-pantalla-de-2024-12-10-09-07-48.png)
 
