@@ -30,6 +30,7 @@ TabNine és una eina d'autocompletat intel·ligent que utilitza models de llengu
 
 ### **V0Dev**
 ![Us de V0Dev](https://i.postimg.cc/brLj8wxK/Captura-de-pantalla-de-2024-12-10-09-07-48.png)
+![us de V0Dev2]("https://ibb.co/zJmjq53")
 V0Dev és una eina dissenyada per millorar l'eficiència i la precisió en l'escriptura de codi, utilitzant IA per suggerir automàticament línies de codi i predir el codi següent.
 
 **Aplicacions:**
