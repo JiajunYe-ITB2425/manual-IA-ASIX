@@ -33,7 +33,7 @@ La IA engloba **algorismes**, **models matemàtics** i **arquitectures computaci
 
 La IA té aplicacions que van des de la medicina fins a la seguretat informàtica, i ha evolucionat gràcies a l'augment exponencial de la potència computacional i la disponibilitat massiva de dades.
 
-<img src="https://www.globales.es/wp-content/uploads/2024/04/ciberseguridad-e-inteligencia-artificial-estrategias-esenciales.jpg" alt="Foto 2" width="500" height="auto">
+<img src="https://www.globales.es/wp-content/uploads/2024/04/ciberseguridad-e-inteligencia-artificial-estrategias-esenciales.jpg" alt="Foto 1" width="500" height="auto">
 
 ---
 
@@ -75,7 +75,7 @@ La **visió per computador** és una capacitat de la IA que permet als sistemes 
   - Els vehicles autònoms utilitzen visió per computador per mantenir-se al carril i evitar col·lisions.
   - Aplicacions mèdiques, com el diagnòstic assistit per IA, analitzen radiografies per detectar malalties.
 
-  <img src="https://segurosnews.com/wp-content/uploads/2020/02/coche-aut%C3%B3nomo.jpg" alt="Foto 1" width="500" height="auto">
+  <img src="https://www.diariomotor.com/imagenes/2023/07/riesgos-coches-autonomos-64aedb3ed94ba.jpg" alt="Foto 2" width="500" height="auto">
 
 ---
 
