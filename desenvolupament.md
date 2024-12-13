@@ -1,4 +1,4 @@
-# Manual d'Ús: Eines d'Intel·ligència Artificial per al Desenvolupament de Codi
+# Eines d'Intel·ligència Artificial per al Desenvolupament de Codi
 
 ## Introducció
 
