@@ -69,7 +69,7 @@ Els centres de dades utilitzats per executar IA poden generar emissions de CO₂
 ---
 
 ## 4. Propostes per Minimitzar els Impactes Ambientals
-![Impacte Ambiental](https://clickpetroleoegas.com.br/wp-content/uploads/2023/09/IA-sendo-aplicada-em-um-parque-de-energia-solar-e-revolucionando-o-setor-de-renovaveis.jpeg)
+![Impacte Ambiental](https://www.laecuaciondigital.com/wp-content/uploads/2024/06/energia-renovable_la-ecuacion-digital.jpg)
 ### **Optimització del Consum Energètic**
 - Reduir la freqüència de suggeriments d'IA quan el desenvolupador no està actiu.
 - Configurar les eines perquè només es processen quan sigui absolutament necessari.
