@@ -64,6 +64,7 @@ L'ús d'eines d'IA, especialment en entorns de núvol, pot augmentar el consum d
 ### **Emissions de CO₂**
 Els centres de dades utilitzats per executar IA poden generar emissions de CO₂, especialment si utilitzen fonts d'energia no renovables. El processament de dades pot contribuir a l'augment de la petjada de carboni.
 
+![Impacte Ambiental]("https://clickpetroleoegas.com.br/wp-content/uploads/2023/09/IA-sendo-aplicada-em-um-parque-de-energia-solar-e-revolucionando-o-setor-de-renovaveis.jpeg")
 ---
 
 ## 4. Propostes per Minimitzar els Impactes Ambientals
