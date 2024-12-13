@@ -74,7 +74,8 @@ La **visió per computador** és una capacitat de la IA que permet als sistemes 
 - **Exemples reals:**
   - Els vehicles autònoms utilitzen visió per computador per mantenir-se al carril i evitar col·lisions.
   - Aplicacions mèdiques, com el diagnòstic assistit per IA, analitzen radiografies per detectar malalties.
-    <img src="https://knaufautomotive.com/wp-content/uploads/2019/12/self-driving.jpg" alt="Foto 1" width="500" height="auto">
+    
+  <img src="https://knaufautomotive.com/wp-content/uploads/2019/12/self-driving.jpg" alt="Foto 1" width="500" height="auto">
 
 ---
 
