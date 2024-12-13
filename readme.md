@@ -74,7 +74,8 @@ La **visió per computador** és una capacitat de la IA que permet als sistemes 
   - Els vehicles autònoms utilitzen visió per computador per mantenir-se al carril i evitar col·lisions.
   - Aplicacions mèdiques, com el diagnòstic assistit per IA, analitzen radiografies per detectar malalties.
 
-  <img src="https://www.diariomotor.com/imagenes/2023/07/riesgos-coches-autonomos-64aedb3ed94ba.jpg" alt="Foto 2" width="500" height="auto">
+
+<img src="https://www.diariomotor.com/imagenes/2023/07/riesgos-coches-autonomos-64aedb3ed94ba.jpg" alt="Foto 2" width="500" height="auto">
 
 ---
 
