@@ -70,14 +70,16 @@ Els centres de dades utilitzats per executar IA poden generar emissions de CO₂
 ---
 
 ## 4. Propostes per Minimitzar els Impactes Ambientals
-![Propostes](https://www.laecuaciondigital.com/wp-content/uploads/2024/06/energia-renovable_la-ecuacion-digital.jpg)
+
 ### **Optimització del Consum Energètic**
 - Reduir la freqüència de suggeriments d'IA quan el desenvolupador no està actiu.
 - Configurar les eines perquè només es processen quan sigui absolutament necessari.
+![image](https://github.com/user-attachments/assets/61312844-5b98-4346-845b-02ad4b1c600a)
 
 ### **Ús d'Energies Renovables**
 Optar per serveis de núvol que utilitzin fonts d'energia renovables per al processament de dades. Proveïdors com Google Cloud i Amazon Web Services ofereixen serveis basats en energia renovable.
 
+![Propostes](https://www.laecuaciondigital.com/wp-content/uploads/2024/06/energia-renovable_la-ecuacion-digital.jpg)
 ### **Reducció del Nombre de Consultes**
 Optimitzar les consultes de codi perquè només es realitzin quan siguin realment necessàries, evitant així el processament innecessari de dades.
 
@@ -101,3 +103,5 @@ Optimitzar les consultes de codi perquè només es realitzin quan siguin realmen
 Les eines d'IA com **GitHub Copilot**, **TabNine** i **V0Dev** estan revolucionant el desenvolupament de codi, millorant la productivitat, la qualitat del codi i la seguretat. Tot i els beneficis, és important considerar els seus impactes ambientals i aplicar solucions per reduir el consum d'energia i les emissions de CO₂.
 
 A mesura que la tecnologia avança, les eines d'IA continuaran jugant un paper fonamental en l'evolució del desenvolupament de programari, fent que el procés sigui més eficient i accessible per als desenvolupadors de tot el món.
+
+
