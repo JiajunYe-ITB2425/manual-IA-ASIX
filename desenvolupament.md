@@ -11,7 +11,8 @@ Les eines d'**intel·ligència artificial (IA)** estan revolucionant el món del
 La **IA** en el desenvolupament de codi proporciona eines que poden generar, optimitzar i refactoritzar codi de manera automàtica. Aquestes eines ajuden els desenvolupadors a millorar la productivitat, reduir errors i garantir que el codi sigui més net i eficaç. A continuació, es presenten algunes de les eines més populars:
 
 ### **GitHub Copilot**
-![Logo GitHub Copilot](https://aps.autodesk.com/sites/default/files/2024-10/Screenshot%202024-10-03%20at%2015.34.40.png)
+![image](https://github.com/user-attachments/assets/49ebd8c2-6133-4ccc-bc9e-0aa295a25f04)
+
 GitHub Copilot és un assistent de codificació basat en IA creat per ajudar els desenvolupadors suggerint codi i funcions completes en temps real.
 
 **Aplicacions:**
