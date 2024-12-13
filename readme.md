@@ -10,9 +10,6 @@
 
 Vivim en una era digital on la tecnologia avança a un ritme vertiginós, transformant tots els aspectes de la nostra vida, des de la manera en què ens comuniquem fins a com gestionem les nostres empreses i activitats diàries. Aquest canvi es fonamenta en elements clau com les xarxes digitals, la gestió de la seguretat, el suport tècnic, l'anàlisi de dades i el desenvolupament de noves solucions. Tots aquests components no només són essencials per a la competitivitat d'organitzacions i sectors, sinó que també influeixen directament en les dinàmiques laborals, socials i en el medi ambient.
 
-
-<img src="https://www.prosegur.com/dam/jcr:c6b63877-0270-410b-afc6-422cbeb45942/CIberseguridad%20IA%20R.webp" alt="Logo TabNine" width="500" height="auto">
-
 En aquest manual, es presenta una visió general de les intel·ligències artificials (IA) i la seva relació amb la informàtica, amb un enfocament específic en l'Administració de Sistemes Informàtics en Xarxa (ASIX). Abordarem com les aplicacions de la Intel·ligència Artificial (IA) estan marcant una revolució en cadascun d’aquests àmbits i que la creació i aplicació de xarxes més intel·ligents, la millora de la seguretat, la personalització del suport tècnic i l'anàlisi de dades, està creant noves oportunitats i models de negoci. Tot i això, també sorgeixen qüestions sobre els impactes al sector, tant a nivell de l’organització interna com de l’entorn laboral.
 
 A més de les oportunitats, és imprescindible reflexionar sobre els impactes ambientals associats a aquestes tecnologies. L’augment del consum energètic en els centres de dades i la generació de residus electrònics són qüestions que cal abordar per garantir que la nostra evolució tecnològica sigui compatible amb la sostenibilitat. Així, també explorarem propostes per minimitzar aquests impactes ambientals, com l'optimització de recursos i la implementació de pràctiques més sostenibles.
@@ -36,7 +33,7 @@ La IA engloba **algorismes**, **models matemàtics** i **arquitectures computaci
 
 La IA té aplicacions que van des de la medicina fins a la seguretat informàtica, i ha evolucionat gràcies a l'augment exponencial de la potència computacional i la disponibilitat massiva de dades.
 
-<img src="https://www.globales.es/wp-content/uploads/2024/04/ciberseguridad-e-inteligencia-artificial-estrategias-esenciales.jpg" alt="Logo TabNine" width="500" height="auto">
+<img src="https://www.globales.es/wp-content/uploads/2024/04/ciberseguridad-e-inteligencia-artificial-estrategias-esenciales.jpg" alt="Foto 2" width="500" height="auto">
 
 ---
 
@@ -77,6 +74,7 @@ La **visió per computador** és una capacitat de la IA que permet als sistemes 
 - **Exemples reals:**
   - Els vehicles autònoms utilitzen visió per computador per mantenir-se al carril i evitar col·lisions.
   - Aplicacions mèdiques, com el diagnòstic assistit per IA, analitzen radiografies per detectar malalties.
+    <img src="https://www.prosegur.com/dam/jcr:c6b63877-0270-410b-afc6-422cbeb45942/CIberseguridad%20IA%20R.webp" alt="Foto 1" width="500" height="auto">
 
 ---
 
