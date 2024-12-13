@@ -75,11 +75,144 @@ En l'àmbit d'ASIX, la IA es converteix en una eina essencial per optimitzar la 
 
 - **Darktrace:** Utilitza IA per analitzar trànsit en xarxes i respondre a amenaces en temps real.
 - **Splunk:** Analitza grans quantitats de dades per oferir informació accionable sobre rendiment i seguretat.
-- **OpenAI Codex:** Assistència per als administradors generant scripts d'automatització, reduint errors humans i estalviant temps.
-- **Elasticsearch:** Plataforma per monitoritzar i analitzar dades de logs, ideal per entorns ASIX.
+- **Elasticsearch:** Plataforma per monitoritzar i analitzar dades de logs, ideal per entorns ASIX. Tot i que no és exclusivament una eina de seguretat, Elasticsearch s'utilitza sovint en la seguretat per indexar i cercar logs de sistemes, ajudant a detectar activitats sospitoses mitjançant l'anàlisi de dades en temps real.
 
 ---
 
+### 2.5 Guia per a la utilització i configuració de cada una d'aquestes IAs: explicació detallada de les eines
+
+## Darktrace
+
+## Objectiu del Cas Pràctic
+
+El propòsit d’aquesta guia és mostrar com utilitzar Darktrace per identificar i respondre a una amenaça de seguretat dins d'una xarxa empresarial. En aquest cas pràctic, detectarem un intent d'intrusió d'un dispositiu extern que vol accedir a un servidor intern i aplicarem mesures per protegir la infraestructura.
+
+---
+
+## Pas 1: Instal·lació i Configuració Inicial de Darktrace
+
+### 1. **Obtenció de Darktrace**
+   - **Passos per obtenir Darktrace:**
+     - Accedeix al lloc web oficial de [Darktrace](https://www.darktrace.com) i crea un compte. Si ets una empresa, podràs sol·licitar una demostració personalitzada.
+     - Un cop obtinguis la llicència o la versió de prova, descarrega l’arxiu d’instal·lació que correspon a la teva infraestructura (Linux o Windows).
+   
+   - **Instal·lació del software:**
+     - Executa l'instal·lador i segueix les instruccions per completar la instal·lació a un servidor centralitzat o a la màquina des d'on controlaràs la seguretat de la xarxa.
+
+### 2. **Integració amb la Xarxa**
+   - **Connexió a la Xarxa:**
+     - Darktrace necessita ser connectat als dispositius clau de la teva infraestructura, com switches i routers, per poder analitzar el trànsit de dades en temps real.
+     - La plataforma utilitza sensors que es col·loquen al punt d'entrada de la xarxa o a les capes més profundes de la infraestructura per capturar informació sobre les comunicacions entre dispositius.
+   
+   - **Visibilitat completa:**
+     - Un cop instal·lat i configurat, Darktrace podrà visualitzar tot el trànsit de la xarxa, incloent comunicacions internes i externes.
+
+
+### 3. **Configurar les Polítiques de Seguretat**
+   - **Definir el que és normal:**
+     - Darktrace necessita entendre què és "normal" dins de la teva xarxa. Això inclou configurar qui pot accedir a què (per exemple, quins dispositius poden comunicar-se amb quins servidors), quins protocols són segurs i quines aplicacions són autoritzades.
+     - Utilitzant aquesta informació, Darktrace pot identificar comportaments anòmals basant-se en una comparativa de les activitats actuals amb les "normes" establertes.
+
+---
+
+## Pas 2: Monitorització en Temps Real
+
+### 1. **Accedir a la Consola de Darktrace**
+   - **Inici de sessió i visibilitat general:**
+     - Accedeix a la consola web de Darktrace mitjançant el navegador. La interfície gràfica és intuïtiva, amb un tauler centralitzat que mostra l'estat de la xarxa i alertes en temps real.
+     - Visualitza l’estat de la teva xarxa: dispositius connectats, trànsit de dades, i alertes de seguretat.
+
+       [![Captura-de-pantalla-de-2024-12-13-12-15-18.png](https://i.postimg.cc/2yzG3sQJ/Captura-de-pantalla-de-2024-12-13-12-15-18.png)](https://postimg.cc/JD2Z2ddc)
+       *Figura 1: Interfaz web de Darktrace mostrando análisis de patrones de vida y alertas de anomalías
+
+### 2. **Revisió de la Visibilitat en Temps Real**
+   - **Panell de control:**
+     - El panell de Darktrace et permet veure tot el trànsit de dades que circula per la xarxa, així com identificar els dispositius connectats. Els dispositius són representats per icones amb codis de colors:
+       - **Verde:** El dispositiu està actiu i comportant-se de manera normal.
+       - **Taronja/Vermell:** S'ha detectat un comportament sospitós que pot indicar una amenaça.
+
+      ![image](https://github.com/user-attachments/assets/e3bda879-b358-4534-ba0e-6ab7e924cace)
+
+       *Figura 2: En la Sección inferior de Darktrace cada alerta indica un comportamiento o evento inusual en la red que podría ser una amenaza potencial.
+         
+   - **Explorar dispositius:**
+     - Clicant sobre qualsevol dispositiu, pots veure detalladament el seu trànsit de dades, les connexions establertes, i l'analítica de comportament de la IA de Darktrace.
+
+       ![image](https://github.com/user-attachments/assets/8192ac69-2099-4472-9855-0b31918ae888)
+
+
+---
+
+## Pas 3: Identificació d'una Amenaça en Xarxa
+
+### 1. **Detectar Comportaments Anòmals**
+   - **Exemple pràctic:**
+     - Imagina que un portàtil s'ha connectat a la xarxa de l'empresa i està intentant accedir a un servidor que normalment no té accés.
+     - Darktrace analitza el trànsit d'aquest dispositiu i detecta que el comportament és anòmal perquè no coincideix amb els patrons previs de connexió.
+   
+   - **Alertes i anàlisi:**
+     - Quan Darktrace detecta una amenaça, emet una alerta. A la consola, es mostrarà un banner de notificació vermell que indica que s'ha detectat una activitat sospitosa.
+     - Les alertes inclouen informació detallada sobre:
+       - **Dispositiu sospitós**: Qui està causant la inquietud (per exemple, un portàtil o un dispositiu mòbil).
+       - **Adreces IP implicades**: Les adreces IP de les parts involucrades en la connexió.
+       - **Anàlisi del comportament**: Una descripció de l'activitat que es considera anòmala, com intentant accedir a serveis no autoritzats o enviant una quantitat anormal de dades.
+
+### 2. **Revisar l’Alerta de Seguretat**
+   - Fes clic sobre l'alerta per veure els detalls de la possible amenaça. A la pàgina d'anàlisi, es mostraran:
+     - Les adreces IP implicades en l'incident.
+     - Els dispositius de la xarxa que poden estar involucrats.
+     - L'historial de les connexions i els moments exactes de la detecció.
+
+---
+
+## Pas 4: Resposta a l'Amenaça
+
+### 1. **Aïllar el Dispositiu Sospitós**
+   - **Resposta autònoma:**
+     - Si tens habilitada la funció de resposta autònoma, Darktrace aïllarà automàticament el dispositiu compromès de la xarxa, tallant així qualsevol connexió malintencionada que pugui estar intentant establir.
+   - **Resposta manual:**
+     - Si prefereixes controlar-ho manualment, pots seleccionar el dispositiu sospitós i activar l'opció d'aïllar el dispositiu de la xarxa per evitar que segueixi causant danys.
+
+### 2. **Anàlisi de la Xarxa per Amenaces Addicionals**
+   - Un cop el dispositiu sospitós ha estat aïllat, és fonamental realitzar una revisió profunda de la resta de la xarxa per identificar altres possibles vulnerabilitats.
+   - Darktrace generarà un informe amb la informació necessària per ajudar-te a identificar altres dispositius que poden estar compromesos.
+
+---
+
+## Pas 5: Generar Informes i Millorar la Seguretat
+
+### 1. **Generació d'Informes**
+   - **Detalls de l'incident:**
+     - Un cop resolt l'incident, Darktrace generarà un informe complet que inclou:
+       - El dispositiu compromès.
+       - L’activitat sospitosa detectada.
+       - Les accions que es van prendre per mitigar la amenaça.
+     - Aquest informe és útil per a auditories i per ajustar les polítiques de seguretat a futur.
+
+### 2. **Ajustar Polítiques de Seguretat**
+   - **Revisió i millora de les polítiques:**
+     - Un cop analitzat l’incident, revisa les teves polítiques de seguretat. Si detectes que una vulnerabilitat va permetre l’incident, ajusta les regles per evitar que es repeteixi.
+     - Darktrace permet establir regles més estrictes per als dispositius, com per exemple limitar l'accés a recursos interns o aplicar controls més estrictes sobre els ports i protocols autoritzats.
+
+---
+
+## Pas 6: Monitorització Continuada
+
+### 1. **Monitorització Post-Incident**
+   - **Seguiment continu:**
+     - És important seguir monitoritzant la xarxa després d’un incident per identificar qualsevol possible nova amenaça. Darktrace et permet continuar amb la supervisió i detectar comportaments inusuals que podrien indicar nous intents d'intrusió.
+
+### 2. **Alertes en Temps Real**
+   - **Reviseu alertes:**
+     - La teva tasca com a responsable de la seguretat de la xarxa és revisar regularment les alertes de seguretat. Darktrace et mantindrà informat de qualsevol activitat sospitosa que es produeixi en temps real.
+
+---
+
+## Conclusió
+
+Aquesta guia t'ha proporcionat una explicació detallada de com utilitzar Darktrace per detectar, respondre i mitigar amenaces a la teva xarxa. Amb una combinació de seguretat automatitzada i anàlisi intel·ligent, Darktrace et permet protegir la teva infraestructura davant de possibles intrusions de manera eficaç. Tant si tens experiència en seguretat com si ets un usuari novell, Darktrace és una eina que facilita la protecció de la teva xarxa de manera intuitiva i potent.
+
+---
 ## 3. Impacte al sector
 
 La IA en el sector de la informàtica, i en particular en ASIX, està transformant la forma en què es gestionen i supervisen els sistemes. Tot i els nombrosos avantatges, també presenta alguns reptes.
