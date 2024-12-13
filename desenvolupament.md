@@ -59,7 +59,6 @@ Les eines d'IA permeten als desenvolupadors accedir fàcilment a noves tecnologi
 ---
 
 ## 3. Impacte Ambiental
-[![Captura-de-pantalla-de-2024-12-13-12-24-48.png](https://i.postimg.cc/bvw2DqW1/Captura-de-pantalla-de-2024-12-13-12-24-48.png)](https://postimg.cc/21g5gNz5)
 ### **Consum Energètic**
 L'ús d'eines d'IA, especialment en entorns de núvol, pot augmentar el consum d'energia. Les eines com GitHub Copilot, TabNine i V0Dev depenen de centres de dades per a la seva operativa, contribuint al consum d'energia.
 
