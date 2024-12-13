@@ -30,6 +30,8 @@ TabNine és una eina d'autocompletat intel·ligent que utilitza models de llengu
 
 ### **V0Dev**
 ![Us de V0Dev](https://i.postimg.cc/brLj8wxK/Captura-de-pantalla-de-2024-12-10-09-07-48.png)
+
+
 [![Captura-de-pantalla-de-2024-12-13-12-24-48.png](https://i.postimg.cc/bvw2DqW1/Captura-de-pantalla-de-2024-12-13-12-24-48.png)](https://postimg.cc/21g5gNz5)
 
 V0Dev és una eina dissenyada per millorar l'eficiència i la precisió en l'escriptura de codi, utilitzant IA per suggerir automàticament línies de codi i predir el codi següent.
@@ -57,18 +59,18 @@ Les eines d'IA permeten als desenvolupadors accedir fàcilment a noves tecnologi
 ---
 
 ## 3. Impacte Ambiental
-
+[![Captura-de-pantalla-de-2024-12-13-12-24-48.png](https://i.postimg.cc/bvw2DqW1/Captura-de-pantalla-de-2024-12-13-12-24-48.png)](https://postimg.cc/21g5gNz5)
 ### **Consum Energètic**
 L'ús d'eines d'IA, especialment en entorns de núvol, pot augmentar el consum d'energia. Les eines com GitHub Copilot, TabNine i V0Dev depenen de centres de dades per a la seva operativa, contribuint al consum d'energia.
 
-### **Emissions de CO₂**
+### **Emissions de CO₂***
 Els centres de dades utilitzats per executar IA poden generar emissions de CO₂, especialment si utilitzen fonts d'energia no renovables. El processament de dades pot contribuir a l'augment de la petjada de carboni.
 
-![Impacte Ambiental]("https://clickpetroleoegas.com.br/wp-content/uploads/2023/09/IA-sendo-aplicada-em-um-parque-de-energia-solar-e-revolucionando-o-setor-de-renovaveis.jpeg")
+
 ---
 
 ## 4. Propostes per Minimitzar els Impactes Ambientals
-
+![Impacte Ambiental](https://clickpetroleoegas.com.br/wp-content/uploads/2023/09/IA-sendo-aplicada-em-um-parque-de-energia-solar-e-revolucionando-o-setor-de-renovaveis.jpeg)
 ### **Optimització del Consum Energètic**
 - Reduir la freqüència de suggeriments d'IA quan el desenvolupador no està actiu.
 - Configurar les eines perquè només es processen quan sigui absolutament necessari.
