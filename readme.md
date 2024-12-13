@@ -33,7 +33,7 @@ La IA engloba **algorismes**, **models matemàtics** i **arquitectures computaci
 
 La IA té aplicacions que van des de la medicina fins a la seguretat informàtica, i ha evolucionat gràcies a l'augment exponencial de la potència computacional i la disponibilitat massiva de dades.
 
-<img src="https://knaufautomotive.com/wp-content/uploads/2019/12/self-driving.jpg" alt="Foto 2" width="500" height="auto">
+<img src="https://www.globales.es/wp-content/uploads/2024/04/ciberseguridad-e-inteligencia-artificial-estrategias-esenciales.jpg" alt="Foto 2" width="500" height="auto">
 
 ---
 
