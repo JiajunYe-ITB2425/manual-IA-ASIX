@@ -76,7 +76,7 @@ Els centres de dades utilitzats per executar IA poden generar emissions de CO₂
 ### **Optimització del Consum Energètic**
 - Reduir la freqüència de suggeriments d'IA quan el desenvolupador no està actiu.
 - Configurar les eines perquè només es processen quan sigui absolutament necessari.
-- ![image](https://github.com/user-attachments/assets/61312844-5b98-4346-845b-02ad4b1c600a)
+![image](https://github.com/user-attachments/assets/61312844-5b98-4346-845b-02ad4b1c600a)
 
 ### **Ús d'Energies Renovables**
 Optar per serveis de núvol que utilitzin fonts d'energia renovables per al processament de dades. Proveïdors com Google Cloud i Amazon Web Services ofereixen serveis basats en energia renovable.
