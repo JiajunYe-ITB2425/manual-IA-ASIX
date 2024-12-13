@@ -20,7 +20,6 @@ Per començar a explorar totes aquestes qüestions, és fonamental entendre què
 
 ---
 
----
 ## 1. Què és la Intel·ligència Artificial?
 
 La **Intel·ligència Artificial (IA)** és una branca de la informàtica dedicada a la creació de sistemes capaços d'imitació o simulació de processos cognitius humans. Aquestes tecnologies busquen dotar les màquines de la capacitat de **"pensar" i "aprendre"**, amb l'objectiu de realitzar tasques complexes que tradicionalment requeririen intel·ligència humana.
