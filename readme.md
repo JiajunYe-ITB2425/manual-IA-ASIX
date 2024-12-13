@@ -36,6 +36,8 @@ La IA engloba **algorismes**, **models matemàtics** i **arquitectures computaci
 
 La IA té aplicacions que van des de la medicina fins a la seguretat informàtica, i ha evolucionat gràcies a l'augment exponencial de la potència computacional i la disponibilitat massiva de dades.
 
+<img src="https://www.globales.es/wp-content/uploads/2024/04/ciberseguridad-e-inteligencia-artificial-estrategias-esenciales.jpg" alt="Logo TabNine" width="500" height="auto">
+
 ---
 
 ## 1.1 Característiques principals de la IA
