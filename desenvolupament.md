@@ -33,7 +33,8 @@ GitHub Copilot és un assistent de programació creat per GitHub i OpenAI. Utili
 
 ### **TabNine**
 
-![TabNine](https://github.com/user-attachments/assets/d8808595-1869-4dbe-9ddc-7cb6003c01a6)
+![Captura de pantalla de 2024-12-17 09-40-06](https://github.com/user-attachments/assets/76fe1817-fdd3-435b-86a6-83b2b49f421a)
+
 
 **Descripció:**  
 TabNine és una eina d'autocompletat intel·ligent per a desenvolupadors de programari que fa servir models de llenguatge entrenats per analitzar el codi existent i suggerir completions en temps real. És una eina que pot ser integrada en editors de codi com VS Code, Sublime Text, i altres.
