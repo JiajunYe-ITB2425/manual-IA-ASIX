@@ -87,7 +87,8 @@ Els centres de dades utilitzats per executar IA poden generar emissions de CO₂
 ### **Ús d'Energies Renovables**
 Optar per serveis de núvol que utilitzin fonts d'energia renovables per al processament de dades. Proveïdors com Google Cloud i Amazon Web Services ofereixen serveis basats en energia renovable.
 
-![Propostes](https://www.laecuaciondigital.com/wp-content/uploads/2024/06/energia-renovable_la-ecuacion-digital.jpg)
+![image](https://github.com/user-attachments/assets/968f80c6-3b44-4827-a076-1a83cc2a939c)
+
 ### **Reducció del Nombre de Consultes**
 Optimitzar les consultes de codi perquè només es realitzin quan siguin realment necessàries, evitant així el processament innecessari de dades.
 
