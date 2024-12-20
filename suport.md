@@ -151,12 +151,8 @@ OpenAI puede generar scripts para automatizar procesos técnicos y reducir el ti
 ```powershell
 Get-Service | Where-Object {$_.Status -eq "Running"} | Select-Object DisplayName, Status
 
-Todo esto lo puedes hacer desde el chat y el modelo de lenguaje te ayudara en tiempo real
+---
 
-![image](https://github.com/user-attachments/assets/445500b3-12a9-4c26-8443-41b79d14dff2)
-_figura 1: En esta imagen podemos ver el chat para escribir_
-
-1.4
 ## 2. Impacte al Sector
 
 ### 2.1 Transformació digital en els sectors empresarials
