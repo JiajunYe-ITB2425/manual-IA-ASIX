@@ -123,7 +123,7 @@ El propòsit d’aquesta guia és mostrar com utilitzar Darktrace per identifica
      - Visualitza l’estat de la teva xarxa: dispositius connectats, trànsit de dades, i alertes de seguretat.
 
        [![Captura-de-pantalla-de-2024-12-13-12-15-18.png](https://i.postimg.cc/2yzG3sQJ/Captura-de-pantalla-de-2024-12-13-12-15-18.png)](https://postimg.cc/JD2Z2ddc)
-       _Figura 1: Interfaz web de Darktrace mostrando análisis de patrones de vida y alertas de anomalías_
+       _Figura 1: Interfaz web de Darktrace mostrando análisis de patrones de vida y alertas de anomalías._
 
 ### 2. **Revisió de la Visibilitat en Temps Real**
    - **Panell de control:**
@@ -139,7 +139,7 @@ El propòsit d’aquesta guia és mostrar com utilitzar Darktrace per identifica
      - Clicant sobre qualsevol dispositiu, pots veure detalladament el seu trànsit de dades, les connexions establertes, i l'analítica de comportament de la IA de Darktrace.
 
        ![image](https://github.com/user-attachments/assets/8192ac69-2099-4472-9855-0b31918ae888)
-       _Figura 3: Podemos ver la sección de Device Admin en la cual encontramos para la monitorización, gestión y clasificación de dispositivos
+       _Figura 3: Podemos ver la sección de Device Admin en la cual encontramos para la monitorización, gestión y clasificación de dispositivos._
 
 
 ---
