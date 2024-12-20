@@ -145,6 +145,9 @@ Ejemplos incluyen:
 **Generación de scripts para automatización**
 OpenAI puede generar scripts para automatizar procesos técnicos y reducir el tiempo necesario para tareas repetitivas.
 
+![image](https://github.com/user-attachments/assets/9e046498-ff76-4af6-882a-dc5ea7a9ba95)
+_Figura 1: En esta imagen podemos ver el chat para hablar con el modelo de lenguaje Openai._
+
 ---
 
 ## 2. Impacte al Sector
