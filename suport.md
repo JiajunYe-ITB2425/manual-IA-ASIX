@@ -116,9 +116,47 @@ Las IA están transformando el soporte técnico al automatizar tareas repetitiva
 
 ---
 
-### **Conclusión**
-La incorporación de IA en soporte técnico permite automatizar tareas repetitivas, mejorar tiempos de respuesta y ofrecer un soporte más proactivo. Esto se traduce en una experiencia mejorada tanto para los clientes como para los equipos técnicos.
+# Guía: Cómo utilizar OpenAI para soporte técnico
 
+## Introducción
+OpenAI, a través de modelos como ChatGPT, ofrece capacidades avanzadas para asistir en tareas de soporte técnico. Estas herramientas permiten resolver problemas, crear scripts, documentar procesos y mucho más, aumentando la eficiencia del equipo de soporte.
+
+---
+
+## Funcionalidades principales de OpenAI en soporte técnico
+
+### 1. **Resolución de problemas técnicos**
+OpenAI puede proporcionar soluciones rápidas y efectivas a problemas comunes en tecnología.  
+Ejemplos incluyen:
+- **Errores de red.**
+- **Configuraciones de sistemas operativos.**
+- **Diagnóstico de hardware y software.**
+
+#### Ejemplo práctico:
+**Problema:** Un usuario no puede acceder a un servidor remoto.  
+**Solución sugerida:**
+1. Verifique la conectividad utilizando `ping` o `tracert`.
+2. Asegúrese de que el puerto correspondiente esté abierto en el firewall.
+3. Compruebe que las credenciales de acceso son correctas.
+4. Intente reiniciar el servicio con el comando adecuado (`systemctl restart <servicio>` en Linux).
+
+---
+
+### 2. **Generación de scripts para automatización**
+OpenAI puede generar scripts para automatizar procesos técnicos y reducir el tiempo necesario para tareas repetitivas.
+
+#### Ejemplo práctico:
+**Necesidad:** Crear un script en PowerShell para listar los servicios en ejecución en un servidor.  
+**Script sugerido:**
+```powershell
+Get-Service | Where-Object {$_.Status -eq "Running"} | Select-Object DisplayName, Status
+
+Todo esto lo puedes hacer desde el chat y el modelo de lenguaje te ayudara en tiempo real
+
+![image](https://github.com/user-attachments/assets/445500b3-12a9-4c26-8443-41b79d14dff2)
+_figura 1: En esta imagen podemos ver el chat para escribir_
+
+1.4
 ## 2. Impacte al Sector
 
 ### 2.1 Transformació digital en els sectors empresarials
