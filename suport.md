@@ -125,7 +125,7 @@ OpenAI, a través de modelos como ChatGPT, ofrece capacidades avanzadas para asi
 
 ## Funcionalidades principales de OpenAI en soporte técnico
 
-### 1. **Resolución de problemas técnicos**
+**Resolución de problemas técnicos**
 OpenAI puede proporcionar soluciones rápidas y efectivas a problemas comunes en tecnología.  
 Ejemplos incluyen:
 - **Errores de red.**
@@ -142,14 +142,8 @@ Ejemplos incluyen:
 
 ---
 
-### 2. **Generación de scripts para automatización**
+**Generación de scripts para automatización**
 OpenAI puede generar scripts para automatizar procesos técnicos y reducir el tiempo necesario para tareas repetitivas.
-
-#### Ejemplo práctico:
-**Necesidad:** Crear un script en PowerShell para listar los servicios en ejecución en un servidor.  
-**Script sugerido:**
-```powershell
-Get-Service | Where-Object {$_.Status -eq "Running"} | Select-Object DisplayName, Status
 
 ---
 
